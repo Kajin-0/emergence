@@ -105,3 +105,14 @@ Search-level comparison, no verified originality. Next audit full-state multi-ex
 - Martin, Biroli & Bach, High-Dimensional Analysis of Gradient Flow for Extensive-Width Quadratic Neural Networks, https://www.jmlr.org/papers/v27/26-0672.html — multi-example feature dynamics in a different regime.
 
 Search-level comparison only. No verified originality. Next audit switching/geometry methods and exact closure theorem at full-text level.
+
+## PET-012 literature — 2026-11-24T03:13:18Z
+
+- Wang et al., https://arxiv.org/abs/2610.36180 — fixed-pattern moment closure; indexed abstract confirms overlap, full novelty comparison incomplete.
+- Matoušek (1992), Reporting points in halfspaces, https://www.sciencedirect.com/science/article/pii/092577219290006E.
+- Afshani & Chan (2009), Optimal Halfspace Range Reporting in Three Dimensions, https://epubs.siam.org/doi/abs/10.1137/1.9781611973068.21 — linear space, O(log n+k) query; check preprocessing guarantee for combined bound.
+- Random Sampling, Halfspace Range Reporting, and Construction of (<=k)-Levels in Three Dimensions, https://epubs.siam.org/doi/10.1137/S0097539798349188 — O(n log n) expected preprocessing and expected O(log n+k) query.
+- Chan (2012), Optimal Partition Trees, https://doi.org/10.1007/s00454-012-9410-z.
+- A dynamic bounding volume hierarchy for generalized collision detection, https://www.sciencedirect.com/science/article/abs/pii/S0097849306000689.
+
+Search-level comparison, no originality claim. Prototype does not implement optimal halfspace structures. Next audit temporal iteration/fast-forwarding and learning complexity.

@@ -145,3 +145,7 @@ See [PET-010.md](PET-010.md): linear-width bounded-noise functional obstruction 
 ## PET-011 update
 
 See [PET-011.md](PET-011.md): known fixed-mask moment closure plus propagated training sign gate and uniform mixed unseen-query certificate; controlled measured compression 227.6x state entries, 6.91x vs direct replay, 717/720 correct certified decisions. Next PET-012 address activation switches, count retained state and fallback. No originality claim.
+
+## PET-012 update
+
+See [PET-012.md](PET-012.md): exact switching continuation via static halfspace queries, conditional complexity, frozen lazy-box prototype negative speed/storage despite correct functional decisions. Pivot to temporal predictability; no retrospective optimization.

@@ -1,16 +1,16 @@
 # Research roadmap and decision gates
 
-Last updated 2026-11-24T03:09:06Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
+Last updated 2026-11-24T03:13:18Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
 
-## Active primary target PET-012 — Event-aware full-state compression
+## Active primary target PET-013 — Temporal computational predictability
 
-PET-011 demonstrated restricted fixed-mask ReLU compression with sufficient sign gate and unseen-output error certificates; 227.6x state entries, 6.91x end-to-end vs microscopic replay in favorable one-run example. Fixed-mask closure itself known. Next address training mask changes.
+PET-012 removed fixed-mask requirement but its frozen prototype failed speed/storage targets. Exact event tracking still evolves one step at a time. Park prototype.
 
-1. Audit Wang et al. arXiv:2610.36180 (full theorem if accessible), activation-region tracking, computational geometry range/switch reporting, lazy matrix propagation, and existing sparse event algorithms. No novelty claim from elementary fixed-mask closure.
-2. Derive exact or certified approximate continuation when a mask gate fails. Investigate lazy group transforms and hierarchical geometry to identify/split only potential switching neurons, cost in actual switches and visited nodes rather than all N*T. Distinguish failed sufficient gate from actual switches. Retain original states if needed; count all storage, rebuilding and fallback.
-3. Prove sufficient conditions for substantive end-to-end gain, or obstruction; include worst cases and precision. Compare with optimized fixed-mask closure and vectorized microscopic replay, same accuracy/output. Avoid claims of speedup based only on arithmetic counts or toy clustering.
-4. Only if structural hypothesis survives, freeze one discriminating switching experiment before running; no sweep/repetition of PET-011 or PET-008. No paid compute.
-5. Follow AGENTS stopping/pivot rules; if classical literature subsumes result or no meaningful gain survives, park route. Publication requires independent proof/novelty audit and approval.
+1. Audit computational irreducibility, fast-forwarding, finite-time iteration complexity and known gradient-descent simulation results at theorem level. Distinguish parallel hardness from sequential time lower bounds.
+2. Seek a structural condition enabling compressed temporal evolution or conditional hardness for future held-out functionality with full state/data/optimizer. Specify finite encoding, horizon encoding, margin, precision and all construction costs. Avoid artificial encoding unless illuminating actual learning.
+3. Compare strongest acceleration baselines. No generic ODE extrapolation, rebranding, or incremental rank-one/fixed-mask/switching examples. Address dependence on horizon rather than constants per step.
+4. Freeze one experiment only if a substantial hypothesis survives. No post-hoc PET-012 tuning, paid compute or broad sweeps.
+5. Follow AGENTS stopping rules; preserve negative results. Publication NO-GO pending independent proof/novelty audit.
 
 ## Longer-term queue (not parallel work)
 

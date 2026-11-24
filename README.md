@@ -29,6 +29,10 @@ This is an exploratory research program, not an established general theory of in
 - [research/PET-011.md](research/PET-011.md): full-state multi-example compression and unseen-query certificate.
 - [experiments/pet011.py](experiments/pet011.py): controlled direct-vs-reduced CPU check.
 - [results/pet011_20261124.json](results/pet011_20261124.json): exact local run record.
+- [research/PET-012.md](research/PET-012.md): exact switching continuation and negative practical result.
+- [research/PET-012_PROTOCOL.md](research/PET-012_PROTOCOL.md): frozen switching protocol.
+- [experiments/pet012.py](experiments/pet012.py): reproducible switching prototype.
+- [results/pet012_20261124.json](results/pet012_20261124.json): local run record.
 - [research/ROADMAP.md](research/ROADMAP.md): current research target, metrics, decision gates and long-term program.
 - [research/REFERENCES.md](research/REFERENCES.md): literature baseline and novelty obligations.
 - [experiments/resonant_cascade.py](experiments/resonant_cascade.py): dependency-free reproduction of the PET-003 example.
@@ -40,6 +44,6 @@ Run from repository root:
 
 ## Current frontier
 
-PET-012: event-aware compression through changing training activation patterns. PET-011 derived conditional fixed-mask validity and held-out function certificates, demonstrating 227.6x state entries and 6.91x direct-replay speed in one favorable case. Fixed-mask closure known; next seek genuine structural gain through switches. No verified originality or general AI prediction result.
+PET-013: temporal computational predictability from full microscopic state. PET-012 handled 602 activation-change events and 720/720 correct decisions, but prototype slower and larger in logical storage than direct. Park prototype; seek temporal acceleration. No verified originality or general AI prediction result.
 
 Constraints: $0 new spending; theory first; high significance threshold; no publication or priority claims without independent scrutiny and owner approval. Public repository is a working record.
