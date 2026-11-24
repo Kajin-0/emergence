@@ -1,6 +1,6 @@
 # AGENTS.md — Predictive Emergence Theory (PET)
 
-Last updated: 2026-11-23 (America/New_York). Applies repository-wide.
+Last updated: 2026-11-24T02:18:12Z. Applies repository-wide.
 
 ## Mission and constraints
 
@@ -35,4 +35,4 @@ Track per block: proof obligations closed/open, assumptions removed, theorem sco
 
 ## Current handoff
 
-Investigations PET-001–003 are in research/FOUNDATIONS.md; PET-004 mixed-spectrum obstruction and adaptive finite-flow-jet theorem are in research/PET-004.md. Primary target PET-005: composability across dynamical regimes, two-saddle/global connecting-map obstruction and sufficient composition/error theorem. Read latest RESEARCH_LOG.md and research/ROADMAP.md for exact next action. Independent proof/novelty audit remains open; do not repeat prior local derivations or sweeps except to close a dependency. No general AI prediction theorem or verified originality has been established.
+PET-001–003: research/FOUNDATIONS.md; PET-004 local adaptive finite-flow-jet theorem: research/PET-004.md; PET-005 global obstruction, conditional composition and precision/cancellation: research/PET-005.md. Primary target PET-006: operational functional capability discovery from analytic learning dynamics, explicit unseen task grammar, predictive certificate or rigorous obstruction. Read latest RESEARCH_LOG.md and research/ROADMAP.md. Classical transition-map overlap is substantial; do not repeat saddle refinements without a specific functional-learning dependency. Independent proof/novelty audit remains open. No general AI prediction theorem or verified originality established.

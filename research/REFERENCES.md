@@ -28,3 +28,12 @@ For every candidate result, log exact closest theorem, overlap, assumption diffe
 - Scaling limit for escapes from unstable equilibria in the vanishing noise limit: nontrivial Jordan block case, https://arxiv.org/abs/1708.00558 — stochastic exit timing and normal forms; distinct from deterministic analytic-curve setting.
 
 Search-level comparison only. Read theorem statements and proofs before claiming PET-004 novelty. Investigate existing flow-jet asymptotics and arbitrary-dimensional saddle passage specifically.
+
+## PET-005 literature audit — 2026-11-24T02:18:12Z
+
+- Robust Heteroclinic Cycles in Pluridimensions, https://doi.org/10.1007/s00332-025-10175-2 — log-coordinate transition matrix products are established.
+- Switching in Heteroclinic Networks, https://doi.org/10.1137/15M1042176 — global transition map form controls switching.
+- Podvigina et al., Stability of a heteroclinic network and its cycles, https://arxiv.org/abs/1712.04270 — eigenvalues/transition matrices insufficient without geometric return-map analysis.
+- Linearization of complex hyperbolic Dulac germs, https://www.sciencedirect.com/science/article/pii/S0022247X21009124 — power-log germs and return maps.
+
+PET-006 initial reading: Notsawo et al. (2026), Grokking Finite-Dimensional Algebra, https://proceedings.mlr.press/v306/notsawo26a.html; Compositionality and systematicity emerge from iterated learning in deep linear networks, https://pmc.ncbi.nlm.nih.gov/articles/PMC13168545/; A mathematical theory for understanding when abstract representations emerge in neural networks, https://pmc.ncbi.nlm.nih.gov/articles/PMC13014162/; Brunton et al., Koopman Invariant Subspaces and Finite Linear Representations of Nonlinear Dynamical Systems for Control, https://pmc.ncbi.nlm.nih.gov/articles/PMC4769143/. Search-level findings; exact theorem comparison required.

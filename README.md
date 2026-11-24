@@ -12,6 +12,7 @@ This is an exploratory research program, not an established general theory of in
 - [RESEARCH_LOG.md](RESEARCH_LOG.md): append-only dated research history and current checkpoint.
 - [research/FOUNDATIONS.md](research/FOUNDATIONS.md): PET-001 through PET-003, statements, derivations, corrections, limitations and counterexamples.
 - [research/PET-004.md](research/PET-004.md): mixed-spectrum information obstruction and adaptive finite-flow-jet theorem.
+- [research/PET-005.md](research/PET-005.md): global finite-jet obstruction and composition/precision limits.
 - [research/ROADMAP.md](research/ROADMAP.md): current research target, metrics, decision gates and long-term program.
 - [research/REFERENCES.md](research/REFERENCES.md): literature baseline and novelty obligations.
 - [experiments/resonant_cascade.py](experiments/resonant_cascade.py): dependency-free reproduction of the PET-003 example.
@@ -23,6 +24,6 @@ Run from repository root:
 
 ## Current frontier
 
-PET-005: composition of local emergence certificates across dynamical regimes. PET-004 derived a mixed-spectrum finite-flow-jet exit law with an adaptive stopping condition and a no-uniform-jet obstruction. Next: global connecting maps, error propagation and composition limits. Novelty and independent audit remain open; no semantic capability-discovery theorem.
+PET-006: prospective functional capability discovery from learning dynamics. PET-005 established a two-saddle global information obstruction and conditional composition law; classical overlap is substantial. Next define actual held-out task functionality and derive a predictive theorem or barrier. Novelty and independent audit remain open.
 
 Constraints: $0 new spending; theory first; high significance threshold; no publication or priority claims without independent scrutiny and owner approval. Public repository is a working record.

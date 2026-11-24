@@ -117,3 +117,7 @@ Invariants (nu, lambda, d): x=(1,1,0), y=(2,2,1), z=(3,3,2). Thus a=1, b=2/3, se
 ## PET-004 update — 2026-11-24 UTC
 
 See [PET-004.md](PET-004.md) for the mixed-spectrum impossibility, adaptive finite-flow-jet two-scale timing theorem, and contact-dependent sufficient degree. The previous mixed-spectrum leading-time question is internally resolved under the stated hyperbolic real-diagonalizable assumptions; global composition and the exact physical exit profile remain open.
+
+## PET-005 update
+
+See [PET-005.md](PET-005.md): global finite-jet obstruction, conditional power-log composition, precision and signed cancellation. Strong classical overlap; pivot to functional discovery.
