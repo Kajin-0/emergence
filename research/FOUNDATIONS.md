@@ -121,3 +121,7 @@ See [PET-004.md](PET-004.md) for the mixed-spectrum impossibility, adaptive fini
 ## PET-005 update
 
 See [PET-005.md](PET-005.md): global finite-jet obstruction, conditional power-log composition, precision and signed cancellation. Strong classical overlap; pivot to functional discovery.
+
+## PET-006 update
+
+See [PET-006.md](PET-006.md): genuine input-output composition hardness at one learning step and conditional deterministic emergence-population bounds/witness via tensor moments. Supplied compositional grammar and classical overlap limit novelty. Next infer latent functional representations.

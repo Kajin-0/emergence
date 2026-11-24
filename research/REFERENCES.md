@@ -37,3 +37,16 @@ Search-level comparison only. Read theorem statements and proofs before claiming
 - Linearization of complex hyperbolic Dulac germs, https://www.sciencedirect.com/science/article/pii/S0022247X21009124 — power-log germs and return maps.
 
 PET-006 initial reading: Notsawo et al. (2026), Grokking Finite-Dimensional Algebra, https://proceedings.mlr.press/v306/notsawo26a.html; Compositionality and systematicity emerge from iterated learning in deep linear networks, https://pmc.ncbi.nlm.nih.gov/articles/PMC13168545/; A mathematical theory for understanding when abstract representations emerge in neural networks, https://pmc.ncbi.nlm.nih.gov/articles/PMC13014162/; Brunton et al., Koopman Invariant Subspaces and Finite Linear Representations of Nonlinear Dynamical Systems for Control, https://pmc.ncbi.nlm.nih.gov/articles/PMC4769143/. Search-level findings; exact theorem comparison required.
+
+## PET-006 literature — 2026-11-24T02:23:18Z
+
+- Notsawo, Dumas, Rabusseau, Grokking Finite-Dimensional Algebra (ICML 2026), https://proceedings.mlr.press/v306/notsawo26a.html — empirical algebra structure and representation alignment.
+- Jarvis et al., Compositionality and systematicity emerge from iterated learning in deep linear networks (PNAS 2026), https://doi.org/10.1073/pnas.2509739123 — exact iterated learning dynamics and systematicity.
+- Lake & Baroni (2023), Human-like systematic generalization through a meta-learning neural network, https://doi.org/10.1038/s41586-023-06668-3.
+- Tzeng (1992), A Polynomial-Time Algorithm for the Equivalence of Probabilistic Automata, https://doi.org/10.1137/0221017 — classical efficient equivalence baseline.
+- From Hadamard expressions to weighted rotating automata and back, https://doi.org/10.1016/j.tcs.2018.09.017 — established rational series/Hadamard machinery; use standard tensor representation for pointwise products.
+- Exact cover by 3-sets NP-completeness: https://mathworld.wolfram.com/ExactCoverProblem.html; counting baseline Jerrum, Counting, Sampling and Integrating, chapter 2, https://www.math.cmu.edu/~af1p/Teaching/MCC17/Papers/JerrumBook.pdf — verify exact reduction convention for #Exact3Cover.
+- Hoeffding binomial concentration and classical conditional-expectation derandomization; see MIT notes https://classes.csail.mit.edu/6.856/current/Notes/n23-derandomizedrounding.html.
+- Random matrix moment transfer operator baseline: https://arxiv.org/abs/1907.08512.
+
+Search-level comparison only; closest theorem audit open. No originality established. PET-007: audit Hankel-rank realization and identifiability of learned compositional operators.

@@ -2,16 +2,16 @@
 
 Living authoritative record. UTC timestamps for new entries; historical sessions dated to available local date only. Append new records, never silently replace past claims; corrections link to superseded entries. Refresh the checkpoint after every substantive research block. For proof details read research/FOUNDATIONS.md.
 
-## Current checkpoint — 2026-11-24T02:18:12Z
+## Current checkpoint — 2026-11-24T02:23:18Z
 
-- **Active target:** PET-006, functional capability discovery from learning dynamics.
-- **Next action:** define a finite algebraic learning model with an explicit admissible task grammar and unseen compositions; compare exact learning/representation results, derive a prospective capability identification theorem or rigorous obstruction. Do not merely forecast specified tasks.
-- **Baseline:** PET-001–003 foundations; PET-004 local adaptive finite-flow-jet theorem; PET-005 global finite-jet obstruction, conditional composition and precision/cancellation limits (research/PET-005.md).
-- **Verified experiment:** 4 prior cascade roots only. PET-005 exact algebra, no new numerical runs; historical 240-network sweep unverified.
-- **Publication status:** NO-GO; independent proof and originality audit outstanding.
+- **Active target:** PET-007, representation/functional relation discovery without a supplied compositional factorization.
+- **Next action:** formulate identifiability of learned task algebras and unseen compositions from microscopic training dynamics modulo representation gauge; audit realization theory and compositional representation learning. Seek a structural gain or obstruction beyond supplied grammars and classical tensor machinery.
+- **Baseline:** PET-001–005 in foundations and individual files; PET-006 functional constant-gap X3C hardness, joint moments and deterministic population/witness certificate (research/PET-006.md).
+- **Verified experiment:** 4 earlier cascade roots; PET-006 symbolic proofs only. No new numerical runs; historical 240-network sweep unverified.
+- **Publication status:** NO-GO. Independent proof and theorem-level novelty audits open.
 - **Constraints:** $0 additional spend; one primary target; theory first; avoid churn.
-- **Decision:** PIVOT from general dynamical transitions to operational capability discovery; classical composition overlap is substantial. Reopen saddle work only for a specific dependency.
-- **Unresolved:** functional/semantic connection, construction cost, prospective discovery, global itinerary and finite precision, theorem-level novelty.
+- **Decision:** PIVOT toward discovering latent functional representations; avoid repeating supplied-composition examples or generic tensor refinements absent a structural dependency.
+- **Unresolved:** genuinely unknown task grammar, automatic representation inference, computational savings including construction, actual learned AI mechanisms, originality.
 
 ## Historical archive — 2026-11-23 ET
 
@@ -49,3 +49,7 @@ Parent: f26845a34d6da79dbc175a90509676c84f24dfae. Question: can a fixed or adapt
 ## 2026-11-24T02:18:12Z — PET-005: global information and composition
 
 Parent 049b5ce69c276f094098a70b6af9f77ca4448bdc. Derived polynomial two-saddle obstruction with identical arbitrary finite jets and same connection topology but different downstream exit existence, sign and timing; conserved quantity gives exact proof. Conditional scalar power-log transfer composition, log-coordinate error propagation and cancellation example documented. Classical overlap substantial: Dulac composition, heteroclinic transition matrices and switching. D=2 (explicit global obstruction and joint cancellation/precision limitation); R=0; primary obligations internally closed: global counterexample and conditional composition; A=0; C=2 families; V=0; spend=$0. No originality claim. Decision PIVOT to PET-006 because refining classical transitions would be churn without a functional-learning dependency. Next define prospective discovery of actual functional behavior in an algebraic learning model and compare exact representation-learning/grokking baselines. Publication NO-GO.
+
+## 2026-11-24T02:23:18Z — PET-006: functional discovery and population certificates
+
+Parent d34dfd881051854965fe32d4252d856ce792abbd. Replaced arbitrary Boolean capability score with true composition error. One-step strongly convex affine-translation learning, bounded integer primitive discrepancies, distinct unseen target functions and fixed absolute margin: deciding any newly functional word is NP-complete via X3C; exact count corresponds bijectively to covers. Constructive joint tensor moments and shifted Bernstein tests bound fraction of newly functional words without enumeration or assumed uniform margin, with deterministic witness via conditional expectation if lower certificate positive. Classical overlap substantial (weighted automata, Hoeffding, conditional expectations, compositional learning); no novelty claim. D=2 (functional hardness under real score, population/witness certificate); R=0; two primary obligations internally closed; A=0; C=1 hardness family; V=0 numerical runs; spend=$0. Key limitations: supplied grammar and architecture, normalized gap, tensor dimensionality, exact arithmetic and full primitive horizon computation. Sampling is strong baseline, no practical speedup proven. Decision PIVOT to PET-007: infer latent functional representation/relations rather than assume composition structure. Publication NO-GO.

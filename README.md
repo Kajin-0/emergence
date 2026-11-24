@@ -13,6 +13,7 @@ This is an exploratory research program, not an established general theory of in
 - [research/FOUNDATIONS.md](research/FOUNDATIONS.md): PET-001 through PET-003, statements, derivations, corrections, limitations and counterexamples.
 - [research/PET-004.md](research/PET-004.md): mixed-spectrum information obstruction and adaptive finite-flow-jet theorem.
 - [research/PET-005.md](research/PET-005.md): global finite-jet obstruction and composition/precision limits.
+- [research/PET-006.md](research/PET-006.md): functional discovery complexity, joint moments and deterministic population/witness certificates.
 - [research/ROADMAP.md](research/ROADMAP.md): current research target, metrics, decision gates and long-term program.
 - [research/REFERENCES.md](research/REFERENCES.md): literature baseline and novelty obligations.
 - [experiments/resonant_cascade.py](experiments/resonant_cascade.py): dependency-free reproduction of the PET-003 example.
@@ -24,6 +25,6 @@ Run from repository root:
 
 ## Current frontier
 
-PET-006: prospective functional capability discovery from learning dynamics. PET-005 established a two-saddle global information obstruction and conditional composition law; classical overlap is substantial. Next define actual held-out task functionality and derive a predictive theorem or barrier. Novelty and independent audit remain open.
+PET-007: discovery of latent functional representations and relations without a supplied compositional factorization. PET-006 established functional discovery hardness and conditional deterministic population/witness certificates. Classical overlap is substantial; next target genuine representation inference. Novelty and independent proof audit remain open.
 
 Constraints: $0 new spending; theory first; high significance threshold; no publication or priority claims without independent scrutiny and owner approval. Public repository is a working record.
