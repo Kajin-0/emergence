@@ -1,22 +1,19 @@
 # Research roadmap and decision gates
 
-Last updated 2026-11-23 ET. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
+Last updated 2026-11-24T02:14:10Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
 
-## Active primary target PET-004 — Hyperbolic mixed spectra
+## Active primary target PET-005 — Global composability
 
-Given a real analytic vector field at a hyperbolic equilibrium with both positive and negative real eigenvalues, and nontrivial analytic initialization curve approaching zero, characterize when the local first-exit coefficients and profile are identifiable from finite microscopic information. Explicitly permit curves contained in stable manifolds (no local exit), arbitrary cancellation and coupling. Do not assume convergent Poincare–Dulac normal form in the mixed-sign case. Initially require real diagonalizable spectrum; complex, Jordan, center and stochastic cases deferred.
+PET-004 leading-time local theorem and obstruction derived; see [PET-004.md](PET-004.md). Independent proof and novelty audit open. Full mixed-spectrum physical exit profile remains open; do not refine it unless composition requires it.
 
-Priority proof obligations:
-1. Separate nonescaping initial conditions on local stable manifold from trajectories which exit. Determine whether exact stable-manifold contact order is finite-jet decidable uniformly; search for counterexamples with arbitrarily high contact.
-2. Analyze stable-to-unstable nonlinear seeding using invariant-manifold flattening and variation of constants; derive a candidate law in terms of unstable transverse amplitudes. A curve's distance to stable manifold may be arbitrarily high order, so avoid naively using PET-003's p-based bound. Test whether a known upper contact-order bound restores finite-information prediction.
-3. Compare with Dulac map/time, invariant foliation, normal forms, inclination lemma and saddle passage results; identify a precise gap in arbitrary-dimensional mixed spectra before investing in generalization. Treat classical saddle exit estimates as baselines, not breakthroughs.
-4. Build explicit counterexamples or a genuinely general theorem with uniform quantifiers; only then add a small reproducible numerical check if it discriminates competing hypotheses. Stop after closing the target or exhausting three distinct blocked routes (see AGENTS.md).
-
-Proposed starting family: x'= -x, y'=lambda*y+c*x^k; x0=epsilon,y0=0. Solve exactly, compare against c=0 and against initialization on stable manifold. This is a planned proof test, not a new verified claim. Investigate the role of transverse order and information bounds before broader global transition models.
+1. Specify a two-saddle model with local entry/exit maps and a connecting map, including transverse contact and exact cancellation. Distinguish physical time and vanishing initialization parameter.
+2. Seek an obstruction showing identical local data can imply different later transitions when connecting dynamics differ; specify analytic vs smooth and finite vs full jets.
+3. Derive a sufficient composition theorem with quantified error propagation, contact order and nondegeneracy; test whether a bounded sequence of transition certificates can avoid full simulation.
+4. Compare against Dulac maps, heteroclinic networks, inclination lemmas, transition maps and existing asymptotic passage results. Stop if novelty is subsumed, or if two consecutive blocks yield no substantive deltas; follow AGENTS.
+5. Only after this, move toward automatically discovering functional observables/capability grammars. No new numerical sweeps without a discriminating dependency.
 
 ## Longer-term queue (not parallel work)
 
-- PET-005: prediction of sequences of local exits/attractor transitions; specify connecting maps and propagate error. Need rigorous composition conditions or impossibility examples.
 - PET-006: discover observables/factorizations from microscopic interactions and prove computational savings; account for search, precision and output length. Candidate tools: symmetry, spectral/Koopman methods, representation theory, low-treewidth factorization, information theory. No oracle assumption.
 - PET-007: universality across nontrivial systems. Compare graph percolation, coupled oscillators, Ising models, cellular automata, deep linear learning and tiny algorithmic learning systems. Avoid unrelated toy suites until a theorem predicts shared behavior.
 - PET-008: blinded prospective discovery in an explicit capability grammar, followed by small-model generalization if analytical foundations justify it. Pre-register grammar, training data, score, continuous diagnostics, novelty test, baseline and held-out cases; separate new mechanism from arbitrary threshold or metric artifact.

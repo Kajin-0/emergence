@@ -113,3 +113,7 @@ Invariants (nu, lambda, d): x=(1,1,0), y=(2,2,1), z=(3,3,2). Thus a=1, b=2/3, se
 - Constructive algorithm with complexity/precision bounds and no oracle for exact analytic vanishing; distinguish information sufficiency from computational efficiency.
 - Determine global transition sequences with error control and possible unpredictability; do not assume local exit results compose.
 - Define semantic capabilities through explicit task/algorithm grammar and prove connection to actual functional behavior. No current result does this.
+
+## PET-004 update — 2026-11-24 UTC
+
+See [PET-004.md](PET-004.md) for the mixed-spectrum impossibility, adaptive finite-flow-jet two-scale timing theorem, and contact-dependent sufficient degree. The previous mixed-spectrum leading-time question is internally resolved under the stated hyperbolic real-diagonalizable assumptions; global composition and the exact physical exit profile remain open.

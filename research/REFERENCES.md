@@ -19,3 +19,12 @@ Checked source landing pages during repository initialization, 2026-11-23 ET. Th
 Additional literature leads (not fully audited): max-sum/tree-decomposition algorithms for weighted constraint optimization; tropical/hypergraph shortest derivations; Koopman observables; spectral/modal participation; saddle-to-saddle learning dynamics; stable/unstable invariant foliations and high-dimensional saddle passage; capability elicitation. Earlier conversation referenced 2026 stochastic emergence and skill-order studies without durable bibliographic identifiers; do not cite their numerical claims until independently identified and checked.
 
 For every candidate result, log exact closest theorem, overlap, assumption difference, result difference, and whether novelty is established. Known theorem + new terminology is not novelty.
+
+## PET-004 preliminary search — 2026-11-24 UTC
+
+- Marín & Villadelprat, Asymptotic expansion of the Dulac map and time for unfoldings of hyperbolic saddles: General setting, https://www.sciencedirect.com/science/article/pii/S0022039620306021 — planar transverse-section maps and time.
+- Local setting, https://www.sciencedirect.com/science/article/pii/S0022039620303387 — resonant planar saddle passage.
+- Asymptotic properties of the Dulac map near a hyperbolic saddle in dimension three, https://afst.centre-mersenne.org/item/AFST_2001_6_10_4_595_0/ — higher-dimensional baseline.
+- Scaling limit for escapes from unstable equilibria in the vanishing noise limit: nontrivial Jordan block case, https://arxiv.org/abs/1708.00558 — stochastic exit timing and normal forms; distinct from deterministic analytic-curve setting.
+
+Search-level comparison only. Read theorem statements and proofs before claiming PET-004 novelty. Investigate existing flow-jet asymptotics and arbitrary-dimensional saddle passage specifically.

@@ -2,16 +2,16 @@
 
 Living authoritative record. UTC timestamps for new entries; historical sessions dated to available local date only. Append new records, never silently replace past claims; corrections link to superseded entries. Refresh the checkpoint after every substantive research block. For proof details read research/FOUNDATIONS.md.
 
-## Current checkpoint — 2026-11-24T01:54:40Z (repository initialization anchor)
+## Current checkpoint — 2026-11-24T02:14:10Z
 
-- **Active target:** PET-004, finite-information exit prediction for hyperbolic mixed spectra.
-- **Next action:** solve stable-to-unstable seeding family in ROADMAP, establish exact stable-manifold obstruction and examine conditions restoring finite-jet predictability. Compare with Dulac theory and invariant-manifold results.
-- **Baseline:** PET-001 complexity separation; PET-002 positive nonlinear first-exit law; PET-003 signed analytic source timing, profile and finite-jet law. All derived proofs internal, originality unverified.
-- **Verified experiment:** 4 deterministic high-precision cascade roots reproduced; raw results versioned. 240 historical network runs lack artifacts and remain unverified.
+- **Active target:** PET-005, composability of emergence certificates across multiple dynamical regimes.
+- **Next action:** formulate two-saddle transition maps with vanishing entry curves and error propagation; derive a global obstruction from identical local data and a sufficient composition criterion. Compare heteroclinic/Dulac transition theory before novelty claims.
+- **Baseline:** PET-001–003 in foundations; PET-004 finite-flow-jet mixed-spectrum theorem and impossibility in research/PET-004.md. Derived internally, not independently certified.
+- **Verified experiment:** 4 earlier deterministic cascade roots; no new numerical runs in PET-004. Historical 240-network sweep unverified.
 - **Publication status:** NO-GO, no independently established foundational contribution.
 - **Constraints:** $0 new spend; one primary target; theory first; avoid churn.
-- **Decision:** CONTINUE on PET-004; no repeated PET-002 numerical sweeps. Audit prior proofs if new target depends on them.
-- **Unresolved:** mixed spectra and contact-order sensitivity; finite predictor construction costs; global transitions; prospective semantic capability definition; theorem-level novelty.
+- **Decision:** CONTINUE to PET-005; local mixed-spectrum leading-time target closed internally; independent audit remains; no redundant numerical sweep.
+- **Unresolved:** theorem-level novelty, exact finite-precision robustness, full physical exit profile for mixed spectra, global composition, semantic capability discovery.
 
 ## Historical archive — 2026-11-23 ET
 
@@ -41,3 +41,7 @@ Initial AGENTS.md commit timestamp 2026-11-24T01:54:40Z. Consolidated historical
 - Negative results, blockers, superseded claims, novelty overlap and limitations
 - Stop criteria evaluated; decision CONTINUE/PIVOT/PARK/STOP and rationale
 - Next single action; update checkpoint and roadmap as needed
+
+## 2026-11-24T02:14:10Z — PET-004: mixed-spectrum finite-information prediction
+
+Parent: f26845a34d6da79dbc175a90509676c84f24dfae. Question: can a fixed or adaptive finite jet determine first emergence in real-diagonalizable hyperbolic mixed spectra? Derived PET-004A impossibility (arbitrarily high stable-manifold contact, identical finite jets with different exit existence/timing); PET-004B adaptive finite-flow-jet two-scale exit law via exponential-polynomial recursion and uniform residual bound; PET-004C contact-dependent sufficiency and one-sided termination certificate. Exact symbolic checks: stable seeding, cancellation, resonant cascade with independent stable mode. No new numerical runs. Removed all-positive-spectrum and convergent-normal-form assumptions from leading-time result, with finite contact needed for guaranteed certificate. Full proof and limits: research/PET-004.md. Preliminary literature check: planar Dulac map/time, higher-dimensional saddle passage, unstable exit. Exact novelty comparison and independent audit open. D=2 substantive deltas (impossibility and constructive theorem including corollary); R=0; primary obligations internally closed: obstruction and leading-time construction; exact profile and novelty open; A=1 combined spectral restriction removed; C=1 counterexample family; V=0 new numerical checks; spend=$0. No churn triggers. Decision CONTINUE to PET-005 rather than further local refinements. Next: rigorous multi-transition composition and global indistinguishability obstruction. Publication NO-GO.

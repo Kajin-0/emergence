@@ -11,6 +11,7 @@ This is an exploratory research program, not an established general theory of in
 - [AGENTS.md](AGENTS.md): mandatory recovery, research governance, anti-churn and stopping rules.
 - [RESEARCH_LOG.md](RESEARCH_LOG.md): append-only dated research history and current checkpoint.
 - [research/FOUNDATIONS.md](research/FOUNDATIONS.md): PET-001 through PET-003, statements, derivations, corrections, limitations and counterexamples.
+- [research/PET-004.md](research/PET-004.md): mixed-spectrum information obstruction and adaptive finite-flow-jet theorem.
 - [research/ROADMAP.md](research/ROADMAP.md): current research target, metrics, decision gates and long-term program.
 - [research/REFERENCES.md](research/REFERENCES.md): literature baseline and novelty obligations.
 - [experiments/resonant_cascade.py](experiments/resonant_cascade.py): dependency-free reproduction of the PET-003 example.
@@ -22,6 +23,6 @@ Run from repository root:
 
 ## Current frontier
 
-PET-004: mixed stable/unstable spectral systems. Investigate finite-information prediction of exit timing and limiting structure without assuming analytic linearization or a convergent finite normal form. Compare against invariant-manifold, normal-form and Dulac-transition theory before claiming novelty. Global sequences of transitions and discovery of semantic capabilities remain longer-term objectives.
+PET-005: composition of local emergence certificates across dynamical regimes. PET-004 derived a mixed-spectrum finite-flow-jet exit law with an adaptive stopping condition and a no-uniform-jet obstruction. Next: global connecting maps, error propagation and composition limits. Novelty and independent audit remain open; no semantic capability-discovery theorem.
 
 Constraints: $0 new spending; theory first; high significance threshold; no publication or priority claims without independent scrutiny and owner approval. Public repository is a working record.
