@@ -1,21 +1,20 @@
 # Research roadmap and decision gates
 
-Last updated 2026-11-24T02:23:18Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
+Last updated 2026-11-24T02:30:08Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
 
-## Active primary target PET-007 — Latent functional representation discovery
+## Active primary target PET-008 — Prospective discovery of learned functional relations
 
-PET-006 used actual input-output composition, proved a constant-gap hardness construction and a deterministic population certificate via known tensor/moment techniques. Park supplied-grammar refinements unless needed for a structural theorem.
+PET-007 found a loss-only information obstruction even with arbitrary curricula, plus a sharp ordered-readout diagnostic in a constructed Clifford family. This is not yet inference from full microscopic learning dynamics. Park generic realization and constructed-obstruction refinements unless a specific dependency arises.
 
-1. Define a family of learned operators and available microscopic observations, latent compositional structure, gauge equivalence, and held-out relations/functions. Distinguish discovering a representation from evaluating a given task.
-2. Audit weighted-automata Hankel rank/minimal realization, system identification, representation theory, noncommutative algebra and exact learned compositional dynamics. Require a precise theorem-level gap.
-3. Seek provable sufficient conditions for automatically identifying a compact latent representation predictive of future functional tasks, or an information/complexity obstruction with indistinguishable training observations but distinct future functionality. Count reconstruction/precision costs and compare against full task testing, direct training and random sampling.
-4. Only add a discriminating computational experiment when the hypothesis and baseline are precise. Do not train frontier models or spend funds.
-5. Stop or pivot under AGENTS.md. Do not present fixed-grammar tensor methods, classical realization or small incremental results as foundational discovery.
+1. Choose ONE small algebraic learner whose internal representation is not imposed (e.g. an ordinary trainable modular arithmetic network with held-out structured input families). Define observable functional relations, finite admissible relation grammar, novelty relative to training constraints, target performance, and prediction horizon. Distinguish untrained task families from mere held-out random examples and prevent access to future labels/checkpoints during prediction.
+2. Audit Nanda et al. mechanistic grokking progress measures, Fourier/circuit analyses, algebra grokking, learned group actions, structural identifiability and compositional generalization. Seek a precise improvement over known representation diagnostics, not another renaming of them.
+3. Formulate an early internal representation certificate predicting which relations become functional at a future checkpoint, or a rigorous barrier. Measure false positives, recall, coverage, lead time, matched compute, and calibration; compare loss-only, early direct output, standard spectral/representation diagnostics, and simple trajectory extrapolation. Freeze prediction rules and held-out evaluations before running a discriminating experiment.
+4. No broad sweeps, paid compute, or frontier training. Start with analytical argument; only run the minimal experiment that tests the hypothesis. If a known baseline subsumes the claim, record and pivot. Follow AGENTS.md stopping rules.
+5. Seek a substantial structural result (general theorem or genuinely strong predictive separation), not a publication based on a toy benchmark. Keep semantic claims bounded by operational task grammar.
 
 ## Longer-term queue (not parallel work)
 
 - Future: universality across nontrivial systems only after a theorem predicts common mechanisms; avoid unrelated toy suites.
-- PET-008: blinded prospective discovery in an explicit capability grammar, followed by small-model generalization if analytical foundations justify it. Pre-register grammar, training data, score, continuous diagnostics, novelty test, baseline and held-out cases; separate new mechanism from arbitrary threshold or metric artifact.
 - Global goal: classify when macroscopic behavior can be predicted more efficiently than microscopic evolution and when it cannot; only then connect to emergence of intelligence.
 
 ## Metrics (proposed, not achievements)

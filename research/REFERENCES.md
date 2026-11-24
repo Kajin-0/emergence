@@ -50,3 +50,16 @@ PET-006 initial reading: Notsawo et al. (2026), Grokking Finite-Dimensional Alge
 - Random matrix moment transfer operator baseline: https://arxiv.org/abs/1907.08512.
 
 Search-level comparison only; closest theorem audit open. No originality established. PET-007: audit Hankel-rank realization and identifiability of learned compositional operators.
+
+## PET-007 literature — 2026-11-24T02:30:08Z
+
+- Sontag, Wang, Megretski, Input Classes for Identifiability of Bilinear Systems (IEEE TAC 2009), https://sontaglab.org/FTPDIR/sontag_wang_megretski_inputs_tac_54_195_207.pdf — established constant-input insufficiency and pulse-class identification for generic bilinear systems. PET-007 is a specific loss-only obstruction with symmetric strongly convex gradients, not a general improvement on this theory.
+- Balle et al., Spectral Learning of General Weighted Automata via Constrained Matrix Completion, https://papers.neurips.cc/paper/4697-spectral-learning-of-general-weighted-automata-via-constrained-matrix-completion.pdf — finite Hankel rank/minimal realization baseline.
+- Rabusseau, Li, Precup, Connecting Weighted Automata and Recurrent Neural Networks through Spectral Learning, https://proceedings.mlr.press/v89/rabusseau19a.html — recovery of linear 2-RNN from Hankel tensor.
+- Arrivault et al., A Toolbox for the Spectral Learning of Weighted Automata, https://proceedings.mlr.press/v57/arrivault16.pdf.
+- Learning Group Actions on Latent Representations (NeurIPS 2024), https://proceedings.neurips.cc/paper_files/paper/2024/hash/e63309e532688c722177f81e99f94f32-Abstract-Conference.html.
+- Statistical and structural identifiability in representation learning (2026), https://arxiv.org/abs/2603.11970.
+- Provable Compositional Generalization for Object-Centric Learning (ICLR 2024), https://brendel-group.github.io/objects-identifiability/ — related structural assumptions; check exact paper before citation.
+- Standard Clifford algebra volume and paravector identities; reference lecture notes https://web.math.ku.dk/~jakobsen/gramps/Clif.pdf.
+
+Search-level comparison, not a proof of originality. Next PET-008: strongest mechanistic representation/grokking baselines, pre-registered prospective functional relation prediction.

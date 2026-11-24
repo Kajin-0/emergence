@@ -125,3 +125,7 @@ See [PET-005.md](PET-005.md): global finite-jet obstruction, conditional power-l
 ## PET-006 update
 
 See [PET-006.md](PET-006.md): genuine input-output composition hardness at one learning step and conditional deterministic emergence-population bounds/witness via tensor moments. Supplied compositional grammar and classical overlap limit novelty. Next infer latent functional representations.
+
+## PET-007 update
+
+See [PET-007.md](PET-007.md): loss-only all-curriculum indistinguishability and sharp ordered functional-readout depth for strongly convex Clifford quadratics. Exact 341-schedule implementation check reproduced. Full microscopic laws distinguish the models; no actual neural capability result. Next PET-008 tests learned functional representations.

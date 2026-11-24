@@ -14,6 +14,8 @@ This is an exploratory research program, not an established general theory of in
 - [research/PET-004.md](research/PET-004.md): mixed-spectrum information obstruction and adaptive finite-flow-jet theorem.
 - [research/PET-005.md](research/PET-005.md): global finite-jet obstruction and composition/precision limits.
 - [research/PET-006.md](research/PET-006.md): functional discovery complexity, joint moments and deterministic population/witness certificates.
+- [research/PET-007.md](research/PET-007.md): all-curriculum loss blindness and ordered functional readout depth.
+- [experiments/clifford_loss_blindness.py](experiments/clifford_loss_blindness.py): exact 341-schedule verification.
 - [research/ROADMAP.md](research/ROADMAP.md): current research target, metrics, decision gates and long-term program.
 - [research/REFERENCES.md](research/REFERENCES.md): literature baseline and novelty obligations.
 - [experiments/resonant_cascade.py](experiments/resonant_cascade.py): dependency-free reproduction of the PET-003 example.
@@ -25,6 +27,6 @@ Run from repository root:
 
 ## Current frontier
 
-PET-007: discovery of latent functional representations and relations without a supplied compositional factorization. PET-006 established functional discovery hardness and conditional deterministic population/witness certificates. Classical overlap is substantial; next target genuine representation inference. Novelty and independent proof audit remain open.
+PET-008: prospective discovery of actual learned functional relations from early internal representations, using one small algebraic learner and strong established baselines. PET-007 established a loss-only information obstruction and sharp ordered readout depth; no full-microscopic or general AI prediction result. Independent proof and novelty audit remain open.
 
 Constraints: $0 new spending; theory first; high significance threshold; no publication or priority claims without independent scrutiny and owner approval. Public repository is a working record.

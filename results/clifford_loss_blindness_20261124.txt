@@ -1,0 +1,10 @@
+PET-007C | exact local Python run, 2026-11-24 UTC
+Replay: python3 experiments/clifford_loss_blindness.py
+Arithmetic: integer and Fraction, no randomness, no external dependencies.
+length=0: schedules=1, loss_mismatches=0, readout_mismatches=0
+length=1: schedules=4, loss_mismatches=0, readout_mismatches=0
+length=2: schedules=16, loss_mismatches=0, readout_mismatches=0
+length=3: schedules=64, loss_mismatches=0, readout_mismatches=0
+length=4: schedules=256, loss_mismatches=0, readout_mismatches=24
+ordered schedule readouts: 2/81 0
+Exit status 0. 341 schedules total. The exact proof covers arbitrary stage counts/mixtures; finite run checks implementation for pure primitive schedules.
