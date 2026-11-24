@@ -1,6 +1,6 @@
 # AGENTS.md — Predictive Emergence Theory (PET)
 
-Last updated: 2026-11-24T03:13:18Z. Applies repository-wide.
+Last updated: 2026-11-24T03:29:26Z. Applies repository-wide.
 
 ## Mission and constraints
 
@@ -35,4 +35,4 @@ Track per block: proof obligations closed/open, assumptions removed, theorem sco
 
 ## Current handoff
 
-PET-001–003: research/FOUNDATIONS.md; PET-004–012: individual research/PET-0XX.md. PET-008 negative frozen pilot; PET-009–010 restricted observations parked; PET-011 favorable fixed-mask summary compression; PET-012 exact switching continuation, 602 events and 720/720 correct decisions but prototype 1.06x slower and 2.047x logical storage. Primary PET-013: temporal computational predictability from full early state, actual functional forecast or rigorous conditional complexity obstruction, horizon dependence and cost. Read latest RESEARCH_LOG.md and research/ROADMAP.md. Do not retune PET-012 or repeat favorable sweeps. No general AI forecast or verified originality; publication requires audit and approval.
+PET-001–003: research/FOUNDATIONS.md; PET-004–013: individual research/PET-0XX.md. PET-008 negative frozen pilot; PET-011 favorable fixed-mask result; PET-012 switching prototype negative speed/storage. PET-013 derived uniform skip-and-replay bound and exact rational interval certificate for 1e9-step held-out output using only 48 nonlinear steps under exponential-small-seed succinct encoding. Primary PET-014: remove imposed seed/horizon relation; ordinary encoded state, detectable learning plateaus, sublinear temporal cost and actual functional prediction, compare classical slow-fast/validated integration baselines. Read latest RESEARCH_LOG.md and research/ROADMAP.md. No further small-seed toy sweeps, no retuning failed experiments. No general AI forecast or verified originality; publication requires audit and approval.

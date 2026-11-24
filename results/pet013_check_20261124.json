@@ -1,0 +1,106 @@
+{
+  "python": "3.13.5",
+  "numpy": "2.3.5",
+  "rho": 0.25,
+  "Lambda": 1.5,
+  "b": 1,
+  "c": 3,
+  "xi": [
+    0.125,
+    0.1,
+    0.075
+  ],
+  "constant": 2.46301869964355,
+  "tolerance": 1e-8,
+  "tail_steps": 48,
+  "rows": [
+    {
+      "T": 64,
+      "tail_steps": 48,
+      "forecast": [
+        0.11212149237731996,
+        0.11212149237731996,
+        4.008893261062931e-13
+      ],
+      "direct": [
+        0.11212149237731996,
+        0.11212149237731996,
+        4.008893261062929e-13
+      ],
+      "state_max_error": 2.0194839173657902e-28,
+      "output": 0.012571229052917417,
+      "linear_output": 0.012656249999999923,
+      "output_error_bound": 1.00000001e-8,
+      "threshold": 0.0126,
+      "certified_below": true,
+      "linear_predicts_above": true,
+      "jump_seconds": 0.0002651900003911578,
+      "direct_seconds": 0.0002236499994978658
+    },
+    {
+      "T": 1024,
+      "tail_steps": 48,
+      "forecast": [
+        0.11212149237731482,
+        0.11212149237731482,
+        3.5926573609183643e-182
+      ],
+      "direct": [
+        0.11212149237731991,
+        0.11212149237731991,
+        3.59265736091826e-182
+      ],
+      "state_max_error": 5.093148125467906e-15,
+      "output": 0.012571229052916265,
+      "linear_output": 0.012656249999998741,
+      "output_error_bound": 1.00000001e-8,
+      "threshold": 0.0126,
+      "certified_below": true,
+      "linear_predicts_above": true,
+      "jump_seconds": 0.00023225199947773945,
+      "direct_seconds": 0.0036938379998900928
+    },
+    {
+      "T": 10000,
+      "tail_steps": 48,
+      "forecast": [
+        0.11212149237726629,
+        0.11212149237726629,
+        0
+      ],
+      "direct": [
+        0.11212149237731991,
+        0.11212149237731991,
+        5e-324
+      ],
+      "state_max_error": 5.362377208939506e-14,
+      "output": 0.012571229052905383,
+      "linear_output": 0.012656249999987703,
+      "output_error_bound": 1.00000001e-8,
+      "threshold": 0.0126,
+      "certified_below": true,
+      "linear_predicts_above": true,
+      "jump_seconds": 0.00023504599994339515,
+      "direct_seconds": 0.03846801399959077
+    },
+    {
+      "T": 1000000000,
+      "tail_steps": 48,
+      "forecast": [
+        0.11212148696798208,
+        0.11212148696798208,
+        0
+      ],
+      "direct": null,
+      "state_max_error": null,
+      "output": 0.012571227839911374,
+      "linear_output": 0.01265624877051479,
+      "output_error_bound": 1.00000001e-8,
+      "threshold": 0.0126,
+      "certified_below": true,
+      "linear_predicts_above": true,
+      "jump_seconds": 0.0002330330007680459,
+      "direct_seconds": null
+    }
+  ]
+}

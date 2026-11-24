@@ -116,3 +116,14 @@ Search-level comparison only. No verified originality. Next audit switching/geom
 - A dynamic bounding volume hierarchy for generalized collision detection, https://www.sciencedirect.com/science/article/abs/pii/S0097849306000689.
 
 Search-level comparison, no originality claim. Prototype does not implement optimal halfspace structures. Next audit temporal iteration/fast-forwarding and learning complexity.
+
+## PET-013 literature — 2026-11-24T03:29:26Z
+
+- Chatziafratis, Roughgarden & Wang (2019), On the Computational Power of Online Gradient Descent, https://proceedings.mlr.press/v99/chatziafratis19a.html — polynomial-space computation via online GD; no unconditional sequential lower bound.
+- Welper (2022), Universality of gradient descent neural network training, https://pubmed.ncbi.nlm.nih.gov/35334438/ — constructed supervised GD Turing universality.
+- Analysis of Carleman Representation of Analytical Recursions (1998; author spelling and details to verify), https://people.tamu.edu/~gberkolaiko/papers/pdf/jmaaBRH98.pdf — classical Carleman iteration representation; PDF not read in this session, indexed summary only.
+- Continuous time evolution from iterated maps and Carleman linearization, https://www.sciencedirect.com/science/article/abs/pii/S0960077901002223 — matrix representation of iterated analytic maps.
+- Carleman linearization of nonlinear systems and its finite-section approximations, https://doi.org/10.3934/dcdsb.2024102 — existing finite-section error estimates.
+- Eremenko et al., Poincare functions literature lead, https://www.math.purdue.edu/~eremenko/Springer/poincare.pdf — classical rescaled iterates near repelling fixed points; full theorem-level audit outstanding.
+
+Search-level comparison only; PET-013 elementary finite-horizon error certificate is not verified novel. Do not pursue Carleman lifting when simple linear warm-start suffices. PET-014 audit slow-fast/center manifold and validated integrators for ordinary-state plateaus.

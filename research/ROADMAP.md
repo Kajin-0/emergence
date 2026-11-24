@@ -1,16 +1,16 @@
 # Research roadmap and decision gates
 
-Last updated 2026-11-24T03:13:18Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
+Last updated 2026-11-24T03:29:26Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
 
-## Active primary target PET-013 — Temporal computational predictability
+## Active primary target PET-014 — Fast-forwarding ordinary learning plateaus
 
-PET-012 removed fixed-mask requirement but its frozen prototype failed speed/storage targets. Exact event tracking still evolves one step at a time. Park prototype.
+PET-013 established a finite-horizon nonlinear tail certificate with horizon-independent tail length in an exponentially small seed regime, and rigorously enclosed one billion-step held-out scalar output. This is not a general learning predictor; succinct initialization is essential to claimed horizon scaling. Do not repeat small-seed examples.
 
-1. Audit computational irreducibility, fast-forwarding, finite-time iteration complexity and known gradient-descent simulation results at theorem level. Distinguish parallel hardness from sequential time lower bounds.
-2. Seek a structural condition enabling compressed temporal evolution or conditional hardness for future held-out functionality with full state/data/optimizer. Specify finite encoding, horizon encoding, margin, precision and all construction costs. Avoid artificial encoding unless illuminating actual learning.
-3. Compare strongest acceleration baselines. No generic ODE extrapolation, rebranding, or incremental rank-one/fixed-mask/switching examples. Address dependence on horizon rather than constants per step.
-4. Freeze one experiment only if a substantial hypothesis survives. No post-hoc PET-012 tuning, paid compute or broad sweeps.
-5. Follow AGENTS stopping rules; preserve negative results. Publication NO-GO pending independent proof/novelty audit.
+1. Audit classical slow-fast/center-manifold, saddle-node passage, validated ODE/map integration, backward-error and learning-stage acceleration. Identify strongest baseline and exact theorem-level gap.
+2. Seek a structural certificate for a long plateau from ordinary-sized encoded full initial state/data/optimizer, not a prescribed exponential-small-seed relation. Predict both exit/transition and actual subsequent functional readout; include detection, construction, bit precision, output and replay cost.
+3. Require a meaningful horizon dependence improvement over equilibrium prediction, simple linear warm-start plus nonlinear tail, and classical normal forms or integrators. If subsumed, park temporal toy route rather than polish. Return to actual learned functional relations if no gap survives.
+4. Freeze a minimal discriminating experiment only after a substantial hypothesis survives. No broad sweeps, no retrospective PET-008/012 tuning, no paid compute.
+5. Follow AGENTS stopping rules. No publication until independently audited substantial originality.
 
 ## Longer-term queue (not parallel work)
 

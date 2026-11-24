@@ -33,6 +33,11 @@ This is an exploratory research program, not an established general theory of in
 - [research/PET-012_PROTOCOL.md](research/PET-012_PROTOCOL.md): frozen switching protocol.
 - [experiments/pet012.py](experiments/pet012.py): reproducible switching prototype.
 - [results/pet012_20261124.json](results/pet012_20261124.json): local run record.
+- [research/PET-013.md](research/PET-013.md): uniform skip-and-replay theorem and billion-step interval certificate.
+- [experiments/pet013_check.py](experiments/pet013_check.py): normalized direct replay checks.
+- [experiments/pet013_interval.py](experiments/pet013_interval.py): exact dyadic interval verification.
+- [results/pet013_interval_20261124.json](results/pet013_interval_20261124.json): certified functional interval.
+- [results/pet013_check_20261124.json](results/pet013_check_20261124.json): numerical check record.
 - [research/ROADMAP.md](research/ROADMAP.md): current research target, metrics, decision gates and long-term program.
 - [research/REFERENCES.md](research/REFERENCES.md): literature baseline and novelty obligations.
 - [experiments/resonant_cascade.py](experiments/resonant_cascade.py): dependency-free reproduction of the PET-003 example.
@@ -44,6 +49,6 @@ Run from repository root:
 
 ## Current frontier
 
-PET-013: temporal computational predictability from full microscopic state. PET-012 handled 602 activation-change events and 720/720 correct decisions, but prototype slower and larger in logical storage than direct. Park prototype; seek temporal acceleration. No verified originality or general AI prediction result.
+PET-014: ordinary-encoded-state fast-forwarding across learning plateaus. PET-013 obtained a uniform nonlinear-tail bound and a certified billion-step output from 48 nonlinear evaluations, restricted to exponentially small succinctly encoded initial states. Next remove that restriction; no general AI prediction or verified originality.
 
 Constraints: $0 new spending; theory first; high significance threshold; no publication or priority claims without independent scrutiny and owner approval. Public repository is a working record.

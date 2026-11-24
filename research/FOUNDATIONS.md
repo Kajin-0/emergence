@@ -149,3 +149,7 @@ See [PET-011.md](PET-011.md): known fixed-mask moment closure plus propagated tr
 ## PET-012 update
 
 See [PET-012.md](PET-012.md): exact switching continuation via static halfspace queries, conditional complexity, frozen lazy-box prototype negative speed/storage despite correct functional decisions. Pivot to temporal predictability; no retrospective optimization.
+
+## PET-013 update
+
+See [PET-013.md](PET-013.md): uniform nonlinear-tail fast-forwarding error for small-seed unstable dynamics, succinct encoding caveat, exact rational billion-step held-out interval from 48 nonlinear updates. Next remove imposed exponential-small-seed relation; classical overlap and novelty unverified.
