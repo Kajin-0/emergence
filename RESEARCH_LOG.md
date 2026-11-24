@@ -2,16 +2,16 @@
 
 Living authoritative record. UTC timestamps for new entries; historical sessions dated to available local date only. Append new records, never silently replace past claims; corrections link to superseded entries. Refresh the checkpoint after every substantive research block. For proof details read research/FOUNDATIONS.md.
 
-## Current checkpoint — 2026-11-24T03:29:26Z
+## Current checkpoint — 2026-11-24T03:34:18Z
 
-- **Active target:** PET-014, ordinary-encoded-state fast-forwarding across detectable nonlinear learning plateaus.
-- **Next action:** remove imposed exponential-small-seed/horizon relation; audit slow-fast/center-manifold and validated integration theory. Seek a meaningful plateau certificate with sublinear cost in actual plateau length, including detection, precision and functional readout; compare equilibrium and simple linear warm-start baselines. If classical results subsume gain, park temporal toy route and return to actual learned functional relations.
-- **Baseline:** PET-001–012 archived; PET-013 skip-and-replay uniform finite-horizon bound near unstable equilibrium, restricted two-example nonlinear GD, 48 nonlinear steps at horizon 1e9 with exact rational output interval width 4.22e-9. Requires exponentially small initial state and succinct scale; no billion-step direct timing or general result. See research/PET-013.md.
-- **Verified experiments:** prior records plus 3 direct normalized replay checks and one outward-rounded billion-step certificate. Historical 240-network sweep unverified.
-- **Publication status:** NO-GO; independent proof and theorem-level novelty audits open.
-- **Constraints:** $0 extra spend; one primary target; theory first; avoid churn.
-- **Decision:** CONTINUE to remove decisive encoding/initialization restriction; no more small-seed toy refinements, no tuning PET-012/008.
-- **Unresolved:** ordinary learning trajectories, general capability discovery, significant originality, cost compared to strongest classical acceleration.
+- **Active target:** PET-015, prospective discovery of actual learned functional relationships.
+- **Next action:** return to an ordinary learner, define a candidate relation grammar, full early state and learning law, held-out task families, acquisition criterion and strong circuit/learning-curve/direct-continuation baselines. Seek a structural theorem connecting dynamical precursors to future expressed functionality or a decisive prospective test. No scalar fast-forward refinements.
+- **Baseline:** PET-001–013 archived; PET-014 corrected-clock discrete bottleneck certificate with fixed initial -1/8 and delta=1e-12, exact exit 3141577, 497 explicit forward/inverse updates, 96-bit rational interval, ~11.3x single-run speed vs direct loop; classical overlap strong; bare continuous estimate also rounds correctly. See research/PET-014.md.
+- **Verified experiments:** previous records plus one exact interval certificate and direct scalar replay. Historical 240-network sweep unverified.
+- **Publication status:** NO-GO; independent proof and theorem-level novelty audit open.
+- **Constraints:** $0 extra spend; one primary target; avoid churn.
+- **Decision:** PIVOT to actual functional discovery; park temporal scalar examples despite restricted ordinary-encoding success.
+- **Unresolved:** predictive advantage for ordinary learned representations, unknown capability grammar, rigorous total cost and significant originality.
 
 ## Historical archive — 2026-11-23 ET
 
@@ -81,3 +81,7 @@ Parent 3cd34718355462564f10ceb571f164afa88e7040 (frozen protocol). Exact activat
 ## 2026-11-24T03:29:26Z — PET-013: finite-horizon temporal fast-forwarding
 
 Parent 582ed953efbab073b430ed6e45b74efe7ef048da. Derived uniform skip-and-replay bound C Lambda^(-(p-1)k) for F=A+g with order-p remainder and x0<=rho Lambda^-T, explicit bootstrap and Lipschitz proof. Matrix power plus k nonlinear updates; finite precision and succinct encoding caveats. Two-example factorized GD, conservative p=2, k=48; direct normalized T=64/1024/10000 replay agrees to <=5.37e-14. At 1e9 no direct replay: 80-bit dyadic interval, exact rational padding, output [0.01257122694,0.01257123116] certifies acquisition at .0125 and nonacquisition at .0126, unlike pure linear forecast. 20.83M update-count reduction, not measured speed; 10000-step one-run ratio ~164x vs normalized direct, not strongest existing baseline. D=1 (temporal certificate and rounding-validated example); R=0; O_closed=1 restricted horizon compression; A=0; C=0; V=2 grouped numeric/interval checks; spend=$0. Known universality of GD and classical Carleman/Poincare overlap; no originality claim. Rescaled Carleman route parked because simpler baseline suffices. CONTINUE to PET-014 remove exponentially small seed assumption; stop/pivot if prior art subsumes gain. Publication NO-GO.
+
+## 2026-11-24T03:34:18Z — PET-014: ordinary-state discrete bottleneck timing
+
+Parent 79694e7602aa542767c81deac8a602e2df6d6c2e. Derived corrected clock H=integral 1/g + .5 log g for g=delta+x^2, explicit per-step defect <=4g, cumulative spatial rather than temporal error, forward/inverse-tail integer crossing bracket and O(1/a) explicit work independent of plateau length at fixed a. Exact rational interval test from x0=-1/8, delta=1e-12: 245 forward +252 inverse steps, 96 fractional bits, E=257/8192, exact tau=3141577; direct binary64 agrees. 0.0683s vs 0.7720s single run (~11.3x); continuous estimate also rounds correctly, so certification rather than point-estimate gain. Asymmetric endpoint analytic log correction established. D=1 restricted certificate, R=0, O_closed=1 ordinary-encoding transition, A=1 imposed exponentially-small initial state removed in scalar family, C=0, V=1 grouped exact/direct check, spend=$0. Classical saddle-node/modified clock/projective integration overlap strong; no realistic neural functionality or novelty claim. PIVOT to PET-015 prospective functional relation discovery in ordinary learner. Park scalar temporal examples; no post-hoc tuning. Publication NO-GO.

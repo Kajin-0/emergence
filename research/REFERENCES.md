@@ -127,3 +127,16 @@ Search-level comparison, no originality claim. Prototype does not implement opti
 - Eremenko et al., Poincare functions literature lead, https://www.math.purdue.edu/~eremenko/Springer/poincare.pdf — classical rescaled iterates near repelling fixed points; full theorem-level audit outstanding.
 
 Search-level comparison only; PET-013 elementary finite-horizon error certificate is not verified novel. Do not pursue Carleman lifting when simple linear warm-start suffices. PET-014 audit slow-fast/center manifold and validated integrators for ordinary-state plateaus.
+
+## PET-014 literature — 2026-11-24T03:34:18Z
+
+- Kuehn, Scaling of saddle-node bifurcations: degeneracies and rapid quantitative changes, https://doi.org/10.1088/1751-8113/42/4/045101 — classical bottleneck inverse-square-root scaling.
+- Scaling law in Saddle-node bifurcations for one-dimensional maps: a complex variable approach, https://repositorio.ipl.pt/entities/publication/2be5889e-c076-405a-afa6-e4185a7b5d70 — discrete map passage scaling.
+- Ghost Mechanism: An Analytical Model of Abrupt Learning in Recurrent Networks, https://journals.aps.org/prx/abstract/10.1103/mjcl-lb4x — direct learning-plateau overlap; abstract checked, theorem-level comparison incomplete.
+- Unfoldings of saddle-nodes and their Dulac time, https://doi.org/10.1016/j.jde.2016.08.040 — classical passage expansions.
+- Plateau Phenomenon in Gradient Descent Training of ReLU Networks, https://doi.org/10.1137/20M1353010 — ReLU learning plateau mechanisms.
+- Gear & Kevrekidis, Projective Methods for Stiff Differential Equations: Problems with Gaps in Their Eigenvalue Spectrum, https://doi.org/10.1137/S1064827501388157 — established time acceleration with fast/slow separation.
+- Gear et al., Analysis of the accuracy and convergence of equation-free projection to a slow manifold, https://arxiv.org/abs/0707.1614 — established slow manifold reconstruction.
+- Saddle-to-Saddle Dynamics Explains A Simplicity Bias Across Neural Network Architectures, https://arxiv.org/abs/2512.20607 — related modern learning dynamics.
+
+Search-level comparison, not novelty proof. Approximate Abel/Fatou coordinates and backward-error methods are closest mathematical baselines; no evidence PET-014 exceeds them. Next return to genuine learned functional relations.

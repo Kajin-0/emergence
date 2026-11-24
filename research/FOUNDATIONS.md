@@ -153,3 +153,7 @@ See [PET-012.md](PET-012.md): exact switching continuation via static halfspace 
 ## PET-013 update
 
 See [PET-013.md](PET-013.md): uniform nonlinear-tail fast-forwarding error for small-seed unstable dynamics, succinct encoding caveat, exact rational billion-step held-out interval from 48 nonlinear updates. Next remove imposed exponential-small-seed relation; classical overlap and novelty unverified.
+
+## PET-014 update
+
+See [PET-014.md](PET-014.md): corrected scalar clock and exact discrete passage bracket from ordinary rational state. Exact interval check, 3141577 exit and 497 explicit forward/inverse updates. Strong classical overlap; pivot to actual functional relationship discovery.

@@ -1,16 +1,16 @@
 # Research roadmap and decision gates
 
-Last updated 2026-11-24T03:29:26Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
+Last updated 2026-11-24T03:34:18Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
 
-## Active primary target PET-014 — Fast-forwarding ordinary learning plateaus
+## Active primary target PET-015 — Actual functional relationship discovery
 
-PET-013 established a finite-horizon nonlinear tail certificate with horizon-independent tail length in an exponentially small seed regime, and rigorously enclosed one billion-step held-out scalar output. This is not a general learning predictor; succinct initialization is essential to claimed horizon scaling. Do not repeat small-seed examples.
+PET-014 removed exponential-small-seed assumption in a scalar saddle-node normal form and certified an exact discrete exit step, but classical passage/acceleration theory is strong and no learned representation is involved. Park temporal scalar examples. Do not extend the examples just to obtain longer horizons.
 
-1. Audit classical slow-fast/center-manifold, saddle-node passage, validated ODE/map integration, backward-error and learning-stage acceleration. Identify strongest baseline and exact theorem-level gap.
-2. Seek a structural certificate for a long plateau from ordinary-sized encoded full initial state/data/optimizer, not a prescribed exponential-small-seed relation. Predict both exit/transition and actual subsequent functional readout; include detection, construction, bit precision, output and replay cost.
-3. Require a meaningful horizon dependence improvement over equilibrium prediction, simple linear warm-start plus nonlinear tail, and classical normal forms or integrators. If subsumed, park temporal toy route rather than polish. Return to actual learned functional relations if no gap survives.
-4. Freeze a minimal discriminating experiment only after a substantial hypothesis survives. No broad sweeps, no retrospective PET-008/012 tuning, no paid compute.
-5. Follow AGENTS stopping rules. No publication until independently audited substantial originality.
+1. Choose one ordinary trainable learner and operational relation/task grammar; define newly functional relations beyond a scalar threshold or fitted decoder. Explicitly separate task discovery from evaluating a supplied benchmark. Use full early parameters, data and optimizer.
+2. Audit strongest existing circuit-level/representation/grokking, compositional generalization and learning-curve forecasting research. Identify a precise gap in prediction of future expressed, held-out task families. Include direct continuation as a compute-matched baseline.
+3. Seek a structural theorem linking early dynamical precursors or learned computational relations to future functionality; or a genuinely discriminating prospective test. Account for construction cost, horizon, precision, false positives, recall, coverage and transfer across independent task families. Do not equate decodability with acquisition (PET-008 negative).
+4. Precommit protocol only if a substantial hypothesis survives. No retrospective tuning, broad sweeps or paid compute. Stop/pivot on classical subsumption or repeated zero substantive deltas. 
+5. Publication NO-GO without substantial novelty and independent audit.
 
 ## Longer-term queue (not parallel work)
 

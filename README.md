@@ -38,6 +38,9 @@ This is an exploratory research program, not an established general theory of in
 - [experiments/pet013_interval.py](experiments/pet013_interval.py): exact dyadic interval verification.
 - [results/pet013_interval_20261124.json](results/pet013_interval_20261124.json): certified functional interval.
 - [results/pet013_check_20261124.json](results/pet013_check_20261124.json): numerical check record.
+- [research/PET-014.md](research/PET-014.md): ordinary-state discrete bottleneck timing certificate.
+- [experiments/pet014.py](experiments/pet014.py): exact rational certificate and direct replay.
+- [results/pet014_20261124.json](results/pet014_20261124.json): exact local result record.
 - [research/ROADMAP.md](research/ROADMAP.md): current research target, metrics, decision gates and long-term program.
 - [research/REFERENCES.md](research/REFERENCES.md): literature baseline and novelty obligations.
 - [experiments/resonant_cascade.py](experiments/resonant_cascade.py): dependency-free reproduction of the PET-003 example.
@@ -49,6 +52,6 @@ Run from repository root:
 
 ## Current frontier
 
-PET-014: ordinary-encoded-state fast-forwarding across learning plateaus. PET-013 obtained a uniform nonlinear-tail bound and a certified billion-step output from 48 nonlinear evaluations, restricted to exponentially small succinctly encoded initial states. Next remove that restriction; no general AI prediction or verified originality.
+PET-015: prospective learned functional relationship discovery. PET-014 certified a discrete scalar transition from ordinary rational initialization; classical overlap is strong. Park scalar temporal refinements and return to actual learned functionality, with strong existing baselines and total cost accounting. No verified originality or general AI prediction result.
 
 Constraints: $0 new spending; theory first; high significance threshold; no publication or priority claims without independent scrutiny and owner approval. Public repository is a working record.
