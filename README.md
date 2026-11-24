@@ -26,6 +26,9 @@ This is an exploratory research program, not an established general theory of in
 - [research/PET-010.md](research/PET-010.md): bounded-noise obstruction and optimal recovery.
 - [experiments/pet010.py](experiments/pet010.py): exact Fraction and numerical LP checks.
 - [results/pet010_20261124.txt](results/pet010_20261124.txt): verification record.
+- [research/PET-011.md](research/PET-011.md): full-state multi-example compression and unseen-query certificate.
+- [experiments/pet011.py](experiments/pet011.py): controlled direct-vs-reduced CPU check.
+- [results/pet011_20261124.json](results/pet011_20261124.json): exact local run record.
 - [research/ROADMAP.md](research/ROADMAP.md): current research target, metrics, decision gates and long-term program.
 - [research/REFERENCES.md](research/REFERENCES.md): literature baseline and novelty obligations.
 - [experiments/resonant_cascade.py](experiments/resonant_cascade.py): dependency-free reproduction of the PET-003 example.
@@ -37,6 +40,6 @@ Run from repository root:
 
 ## Current frontier
 
-PET-011: full-state predictive compression for multi-example feature learning. PET-010 gave a bounded-noise functional obstruction and classical minimax recovery. Park partial-observation/rank-one refinements; pursue structural prediction from actual microscopic state. No verified originality or general AI prediction result.
+PET-012: event-aware compression through changing training activation patterns. PET-011 derived conditional fixed-mask validity and held-out function certificates, demonstrating 227.6x state entries and 6.91x direct-replay speed in one favorable case. Fixed-mask closure known; next seek genuine structural gain through switches. No verified originality or general AI prediction result.
 
 Constraints: $0 new spending; theory first; high significance threshold; no publication or priority claims without independent scrutiny and owner approval. Public repository is a working record.

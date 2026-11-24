@@ -94,3 +94,14 @@ Search-level comparison only. No established originality. PET-010 must review no
 - Numerical analytic continuation, https://doi.org/10.1007/s13160-023-00599-2 — analytic continuation limitations and algorithms.
 
 Search-level comparison, no verified originality. Next audit full-state multi-example dynamical coarse-graining and feature learning at theorem level.
+
+## PET-011 literature — 2026-11-24T03:09:06Z
+
+- Lin-Juan Wang et al., Dynamical coarse-graining of neural-network training, https://arxiv.org/abs/2610.36180 (26 Oct 2026 preprint): abstract and indexed description identify exact closure for fixed activation patterns (five moments in their ReLU example). Full HTML unavailable in this session; do not claim theorem-level novelty comparison. PET-011 treats fixed-mask moment closure as known; compare proposed sign gate and mixed query bounds with full theorem when accessible.
+- Scaling Up Exact Neural Network Compression by ReLU Stability (NeurIPS 2021), https://proceedings.neurips.cc/paper/2021/hash/e35d7a5768c4b85b4780384d55dc3620-Abstract.html — static stable ReLU compression, relevant baseline for certification.
+- Studying the Evolution of Neural Activation Patterns During Training of Feed-Forward ReLU Networks, https://pmc.ncbi.nlm.nih.gov/articles/PMC8733739/ — activation change measurements, no assumption of perpetual stability.
+- Ergen & Pilanci, Global Optimality Beyond Two Layers: Training Deep ReLU Networks via Convex Programs, https://proceedings.mlr.press/v139/ergen21a.html — hyperplane arrangement methods.
+- Glasgow, Wu & Bruna, Mean-field analysis of polynomial-width two-layer neural network beyond finite time horizon, https://proceedings.mlr.press/v291/glasgow25a.html — long-time particle approximation baseline.
+- Martin, Biroli & Bach, High-Dimensional Analysis of Gradient Flow for Extensive-Width Quadratic Neural Networks, https://www.jmlr.org/papers/v27/26-0672.html — multi-example feature dynamics in a different regime.
+
+Search-level comparison only. No verified originality. Next audit switching/geometry methods and exact closure theorem at full-text level.

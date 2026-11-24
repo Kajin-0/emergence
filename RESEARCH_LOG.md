@@ -2,16 +2,16 @@
 
 Living authoritative record. UTC timestamps for new entries; historical sessions dated to available local date only. Append new records, never silently replace past claims; corrections link to superseded entries. Refresh the checkpoint after every substantive research block. For proof details read research/FOUNDATIONS.md.
 
-## Current checkpoint — 2026-11-24T03:03:00Z
+## Current checkpoint — 2026-11-24T03:09:06Z
 
-- **Active target:** PET-011, full-microscopic-state predictive compression for multi-example feature learning.
-- **Next action:** audit general dynamical coarse-graining, exact feature-learning reductions and tangent hierarchy; identify structural closure or meaningful obstruction with full early state and training law available. Require actual held-out functional prediction, cost including construction, strongest baselines. No more rank-one observation counterexamples absent a specific dependency.
-- **Baseline:** PET-001–009 archived; PET-010 noise-hidden functional relation with linear-width construction and exact minimax recovery LP (classical machinery), research/PET-010.md.
-- **Verified experiments:** previous checks plus 18 exact Fraction evaluations and 4 primal/dual LP numerical consistency checks. Historical 240-network sweep unverified.
-- **Publication status:** NO-GO; independent proof and theorem-level novelty audit outstanding.
+- **Active target:** PET-012, event-aware dynamical compression through changing ReLU activation patterns.
+- **Next action:** derive a certified lazy/splitting algorithm or obstruction with cost tied to actual switches and geometric query complexity; audit exact closure and existing event/activation-region methods. Account for retaining original states, construction and worst-case fallback. No more favorable fixed-mask sweeps.
+- **Baseline:** PET-001–010 archived; PET-011 full-state fixed-mask Gram closure (known), sufficient training sign gate and uniform unseen-query certificate; 227.6x state entries, 6.91x single-run end-to-end speed vs direct microscopic replay, 717/720 correct certified decisions, three abstentions. See research/PET-011.md.
+- **Verified experiments:** prior records plus one controlled 8192-neuron, 300-step multi-example CPU run with 720 unseen directions. Historical 240-network sweep unverified.
+- **Publication status:** NO-GO; independent proof, originality and strongest-baseline comparison open.
 - **Constraints:** $0 additional spend; one primary target; theory first; avoid churn.
-- **Decision:** PIVOT away from restricted observation/rank-one refinements toward full-state structural compression, directly relevant to predicting intelligence.
-- **Unresolved:** meaningful full-state computational savings, multi-example learned representations, semantic capability discovery, originality.
+- **Decision:** CONTINUE toward dynamic activation changes; fixed-mask example achieves restricted compression but is favorable and does not meet 10x speed gate.
+- **Unresolved:** event-aware efficiency, full-state memory when switches possible, finite precision, broader task/capability semantics, novelty.
 
 ## Historical archive — 2026-11-23 ET
 
@@ -69,3 +69,7 @@ Parent bbd7e3b712c0060a209ea355f0fbaa19dc5d8088. Balanced quadratic activation r
 ## 2026-11-24T03:03:00Z — PET-010: bounded-noise prediction limits and minimax recovery
 
 Parent 46195fa1c934fb855bc4d72fc840f6319dcedaa3. Derived four-neuron-per-node realization of bounded signed resolvent measures with common exact training dynamics. Forward-difference cancellation hides the entire early unit-input output history under bounded noise; near-pole family has O(1) absolute future gap at exponentially shrinking pole distance, with growing target scale. Finite-checkpoint minimax risk is a classical optimal-recovery LP, applied exactly to the fixed-node box family; no novelty credit for that machinery. Verified 18 exact rational evaluations (6 degrees x 3 clocks) and 4 LP primal/dual numerical checks; no training sweep or runtime advantage. D=1 (linear-width bounded-noise realizable obstruction, including explicit near-pole limit); R=0; primary obstruction closed in restricted model; A=0; C=1 family; V=1 grouped computational check; spend=$0. Classical noisy extrapolation/optimal recovery overlap verified by source search; no general AI result. Decision PIVOT to full-state multi-example feature-learning compression; further rank-one extrapolation would be churn. Publication NO-GO.
+
+## 2026-11-24T03:09:06Z — PET-011: full-state multi-example compression and certified unseen queries
+
+Parent 8edbf0ea604b2976a89846ec19389b87578091bb. Known fixed-mask ReLU Gram dynamics used as baseline. Derived propagated enclosing-ball sign gate and mixed-query uniform error bound, conditional on all training gates through horizon. Exact-query set specifies unseen cones. Controlled run (not independent pre-registration): N=8192,d=2,m=4,G=4, seed11, 300 simultaneous GD updates, 720 unseen unit directions. 24576/108 state entries=227.6x; end-to-end 0.158084142s direct vs 0.022890300s reduced incl construction and queries=6.91x on single CPU run; 678 exact final queries, max error there 1.11e-15; 658 acquisitions and 59 nonacquisitions certified correctly, 3 abstentions. 661 actual acquisitions. Float verification, not interval-certified numerical proof. Strong fixed-mask closure overlap, no measured gain over known optimized closure. D=1 (closure validity and unseen-function certificate with measured conditional compression); R=0; O_closed=1 restricted full-state construction; A=1 multiple training examples and trainable features/readout; C=0; V=1 grouped experiment; $0 spend. CONTINUE to PET-012 activation switching, no redundant fixed-mask sweeps. Publication NO-GO.

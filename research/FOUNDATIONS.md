@@ -141,3 +141,7 @@ See [PET-009.md](PET-009.md): exact scalar clock for balanced rank-one quadratic
 ## PET-010 update
 
 See [PET-010.md](PET-010.md): linear-width bounded-noise functional obstruction with shared training dynamics, explicit near-pole limit (growing target scale), classical minimax optimal recovery. Exact Fraction and numerical LP checks retained. Pivot to full-state multi-example learning; no further rank-one refinements without dependency.
+
+## PET-011 update
+
+See [PET-011.md](PET-011.md): known fixed-mask moment closure plus propagated training sign gate and uniform mixed unseen-query certificate; controlled measured compression 227.6x state entries, 6.91x vs direct replay, 717/720 correct certified decisions. Next PET-012 address activation switches, count retained state and fallback. No originality claim.

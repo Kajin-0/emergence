@@ -1,16 +1,16 @@
 # Research roadmap and decision gates
 
-Last updated 2026-11-24T03:03:00Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
+Last updated 2026-11-24T03:09:06Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
 
-## Active primary target PET-011 — Full-state predictive compression for multi-example feature learning
+## Active primary target PET-012 — Event-aware full-state compression
 
-PET-010 resolved a restricted bounded-noise obstruction and classical optimal-recovery formulation. Park rank-one and partial-observation examples. The central goal is prediction from actual microscopic learning state, not only loss or noisy telemetry.
+PET-011 demonstrated restricted fixed-mask ReLU compression with sufficient sign gate and unseen-output error certificates; 227.6x state entries, 6.91x end-to-end vs microscopic replay in favorable one-run example. Fixed-mask closure itself known. Next address training mask changes.
 
-1. Audit dynamical coarse-graining, exact feature-learning reductions, finite-width tangent hierarchy, invariant closures and representation/grokking dynamics at theorem level.
-2. Define a multi-example learning system, early full-state access, task grammar, functional error and prediction horizon. Seek a structural closure/obstruction that matters even with complete early weights and known data/optimizer. Do not artificially hide information from predictor to obtain a barrier.
-3. A useful theorem must certify future held-out functions or a class of relations, account for construction, precision, and inference costs against full training and strongest reduced baselines, and specify actual assumptions and novelty difference. No generic Gronwall/NTK/optimal-recovery rebranding.
-4. If a discriminating hypothesis survives, freeze a minimal experiment; no paid compute, broad sweeps, or retrospective PET-008 tuning.
-5. Follow AGENTS stop/pivot rules. No publication until substantive independent audit. If no meaningful structural gain survives prior art, explicitly park route.
+1. Audit Wang et al. arXiv:2610.36180 (full theorem if accessible), activation-region tracking, computational geometry range/switch reporting, lazy matrix propagation, and existing sparse event algorithms. No novelty claim from elementary fixed-mask closure.
+2. Derive exact or certified approximate continuation when a mask gate fails. Investigate lazy group transforms and hierarchical geometry to identify/split only potential switching neurons, cost in actual switches and visited nodes rather than all N*T. Distinguish failed sufficient gate from actual switches. Retain original states if needed; count all storage, rebuilding and fallback.
+3. Prove sufficient conditions for substantive end-to-end gain, or obstruction; include worst cases and precision. Compare with optimized fixed-mask closure and vectorized microscopic replay, same accuracy/output. Avoid claims of speedup based only on arithmetic counts or toy clustering.
+4. Only if structural hypothesis survives, freeze one discriminating switching experiment before running; no sweep/repetition of PET-011 or PET-008. No paid compute.
+5. Follow AGENTS stopping/pivot rules; if classical literature subsumes result or no meaningful gain survives, park route. Publication requires independent proof/novelty audit and approval.
 
 ## Longer-term queue (not parallel work)
 
