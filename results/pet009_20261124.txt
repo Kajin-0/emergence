@@ -1,0 +1,18 @@
+PET-009 | Local executed checks, 2026-11-24T02:55:39Z
+Equivalent inline Python transcribed into experiments/pet009.py. Reproduction: python3 experiments/pet009.py. Dependencies NumPy, SciPy, SymPy; no seed. Exact rational moment cancellation verified for all degrees <n. Columns q,n,width,positive relation at s=.5 (exact and decimal).
+0 4 16 1375/3969 0.34643487024439407
+1 5 32 31594/266805 0.1184160716628249
+2 6 64 211631/5521230 0.03833040826047819
+3 7 128 138464/11594583 0.011942128492245043
+4 8 256 299241/82736654 0.0036167887572538283
+
+q=0 direct solve_ivp, rtol=1e-12, atol=1e-14, Y=6
+Initial F=1.1520000000000001, exact-clock F(s*)=5.442720268589506
+Physical time=0.18015692144277798, quadrature reported error=1.999952630569212e-15
+Direct F=5.442720268584378
+Direct relation=0.3464348702522466
+Absolute relation error vs exact=7.852551942022501e-12
+Accepted steps=84, RHS calls=506
+Prony polynomial from ten exact moments:
+(2*z - 1)*(5*z - 2)*(5*z - 1)*(10*z - 3)*(10*z - 1)/5000
+Roots 0.1,0.2,0.3,0.4,0.5. No comparative runtime measured. Numerical check is not a general theorem proof. No new training sweeps.

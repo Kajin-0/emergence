@@ -133,3 +133,7 @@ See [PET-007.md](PET-007.md): loss-only all-curriculum indistinguishability and 
 ## PET-008 update
 
 See [PET-008.md](PET-008.md): prospectively frozen structured modular-addition holdout pilot, negative predictive advantage. Decodable competence is not a reliable sufficient forecast in this pilot. Script and full family-level count records retained. Pivot to dynamical reachability; no retrospective tuning.
+
+## PET-009 update
+
+See [PET-009.md](PET-009.md): exact scalar clock for balanced rank-one quadratic neural training, arbitrary-order full-output/NTK jet obstruction, bounded-support finite-jet recovery, width-independent conditional moment forecast. Exact and direct gradient-flow checks retained. Restricted model and no measured speedup or originality; next PET-010 finite/noisy observations and robust cost.

@@ -2,16 +2,16 @@
 
 Living authoritative record. UTC timestamps for new entries; historical sessions dated to available local date only. Append new records, never silently replace past claims; corrections link to superseded entries. Refresh the checkpoint after every substantive research block. For proof details read research/FOUNDATIONS.md.
 
-## Current checkpoint — 2026-11-24T02:41:09Z
+## Current checkpoint — 2026-11-24T02:55:39Z
 
-- **Active target:** PET-009, dynamical reachability certificates for functional competence.
-- **Next action:** formalize how early hidden decodability differs from future expressed behavior, compare exact readout dynamics, NTK and representation-drift bounds, seek a predictive margin certificate or nontrivial obstruction beyond existing methods. Park PET-008 design; no retrospective tuning.
-- **Baseline:** PET-001–007 archived; PET-008 prospectively frozen structured modular-addition pilot: ridge 50% vs persistence 65% accuracy; ridge AUROC .577 vs raw .599; 20 eligible/7 acquired. See research/PET-008.md.
-- **Verified experiments:** 4 cascade roots, 341 Clifford schedules, 3 CPU neural training runs (7500 updates), complete per-family count record. Historical 240-network sweep unverified.
-- **Publication status:** NO-GO. Independent proof and novelty audits open.
+- **Active target:** PET-010, robust predictive compression under noisy/finite observations.
+- **Next action:** compare PET-009 finite-jet/moment prediction with recent dynamical coarse-graining and tangent hierarchy theory; seek a stable accessible-observation forecast or sharp tradeoff/lower bound with end-to-end costs, beyond exact derivatives and imposed rank-one balance. Do not tune or repeat PET-008.
+- **Baseline:** PET-001–008 archived; PET-009 exact nonlinear clock, arbitrary-order full-output/NTK jet obstruction, bounded-support reconstruction and uniform finite-moment forecast under explicit conditions (research/PET-009.md).
+- **Verified experiments:** 4 cascade roots, 341 Clifford schedules, 3 CPU neural training runs, PET-009 exact moment checks q=0..4 and one direct gradient-flow/Prony check. Historical 240-network sweep unverified.
+- **Publication status:** NO-GO. Independent proof and theorem-level novelty audits open.
 - **Constraints:** $0 additional spend; one primary target; theory first; avoid churn.
-- **Decision:** PIVOT from decodability to optimizer-dependent functional reachability. Negative result retained without rerun.
-- **Unresolved:** predictive advantage, semantic grammar discovery, representation drift, total construction cost, originality.
+- **Decision:** CONTINUE from exact to stable prediction; no generic synthetic sweeps. Park rank-one refinements unless a specific stability dependency.
+- **Unresolved:** finite-precision observation cost, general nonlinear training, comparative savings, actual semantic capability discovery, originality.
 
 ## Historical archive — 2026-11-23 ET
 
@@ -61,3 +61,7 @@ Parent 8e4e6deafda2e19ccedcfe6a0174968c06cb73e0. Derived two condition-number-3 
 ## 2026-11-24T02:41:09Z — PET-008: frozen prospective pilot, negative result
 
 Parent f49b614ec8f7da095cc560299a07515444e9d1a1 is the frozen protocol commit before training. Three CPU seeds, structured held-out difference families, cutoff 600 and horizon 2500. 20 eligible, 7 acquired; hidden ridge 5 TP/8 FP/2 FN/5 TN (50% accuracy, .577 AUROC), persistence 65%, raw early accuracy .599 AUROC, extrapolation and restricted logits 35%. Restricted logits perfect at cutoff across all families but 13/20 fail later; five initially passing families regress. Frozen hypothesis fails predictive advantage; no tuning or sweep. D=1 (discriminating negative experiment); R=0; O_closed=1 empirical test; A=0; C=0 formal counterexamples; V=1 experiment/3 seeds; 7500 CPU updates, 7.52s measured local elapsed, $0 spend. No independent replication, no matched predictor compute or novel generalization claim. PIVOT to PET-009 dynamical reachability, distinguish representation availability from optimizer selection. Publication NO-GO. See protocol, report, script and full family-count data.
+
+## 2026-11-24T02:55:39Z — PET-009: nonlinear reachability and information certificate
+
+Parent bbd7e3b712c0060a209ea355f0fbaa19dc5d8088. Balanced quadratic activation rank-one gradient flow admits exact scalar clock. Derived arbitrary-order full-output and NTK initial temporal jet indistinguishability with identical full training trajectories but opposite future held-out relations (binomial finite differences). Derived conditional exact finite-jet reconstruction via known bounded support/Prony and width-independent approximate moment forecast with explicit residual, clock and functional error bounds; exact jets and model restrictions essential. Exact rational moments verified q=0..4; q=0 direct gradient flow relation error 7.85e-12 and five nodes recovered from ten moments. D=2 (observation obstruction and constructive conditional forecast including exact reconstruction); R=0; primary obligations internally closed=2; A=0; C=1 family; V=1 grouped verification; spend=$0. No comparative runtime, no generalization or novelty claim. Closest research: NTK, neural tangent hierarchy, quadratic dynamics, recent dynamical coarse-graining (arXiv:2610.36180), Prony. Decision CONTINUE to PET-010 finite precision and observation cost; park further rank-one toy refinements absent a precise dependency. Publication NO-GO.

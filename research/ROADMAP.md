@@ -1,16 +1,16 @@
 # Research roadmap and decision gates
 
-Last updated 2026-11-24T02:41:09Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
+Last updated 2026-11-24T02:55:39Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
 
-## Active primary target PET-009 — Dynamical reachability of functional competence
+## Active primary target PET-010 — Robust predictive compression under noisy observations
 
-PET-008 negative pilot: early hidden readout does not outperform direct output ranking or persistence, despite evidence of latent competence. Do not tune or repeat this pilot. See research/PET-008.md and frozen protocol.
+PET-009: exact nonlinear rank-one training clock, arbitrary-order output/NTK jet obstruction, finite support Prony reconstruction and uniform moment forecast. Restricted architecture, exact derivatives and known bounds; no measured savings. Do not tune PET-008 or extend synthetic examples for their own sake.
 
-1. Define functional acquisition as future expressed margins, not existence of an alternative decoder; distinguish finite-horizon endpoint from first passage/persistence.
-2. Audit frozen-feature readout gradient dynamics, neural tangent kernel and feature-learning/representation drift bounds, existing mechanistic precursor and learning-curve prediction results. Establish exact theorem-level gap before new experiments.
-3. Seek a certificate of future margins from early parameters and learning law, with controlled drift/optimizer error and cost including construction. Compare against exact frozen-kernel dynamics and direct output baselines. A generic Gronwall bound or rebranding NTK does not qualify as significant.
-4. Seek a nontrivial structural gain or impossibility theorem for actual functional discovery. If a specific prediction survives, freeze one discriminating test. No retrospective tuning of PET-008, no broad sweeps or paid compute.
-5. Follow anti-churn conditions in AGENTS.md; after two zero-delta blocks park/pivot. Publication only if substantial new result survives independent audit.
+1. Audit recent dynamical coarse-graining (arXiv:2610.36180), neural tangent hierarchy, noisy Prony/moment theory, analytic continuation and system-identification limits at theorem level. Establish actual difference before claiming novelty.
+2. Replace exact high derivatives by accessible finite-time observations and finite precision. Derive a stability bound or lower bound for future held-out functional margins under explicit noise and observation assumptions. Include full observation/derivative acquisition, computation and precision cost. Seek a tradeoff not subsumed by classical theory.
+3. Prefer a structural extension beyond imposed rank-one/balanced dynamics, or a certified abstraction with measurable advantage over full training and standard tangent forecast. Do not confuse a conditional error bound with an efficient construction.
+4. Freeze a discriminating test only if a novel hypothesis survives. No broad sweeps, no retrospective tuning of PET-008, no paid compute.
+5. Apply AGENTS stopping rules; if two consecutive focused blocks produce no substantive gain, park/pivot. Publication NO-GO until independent proof and originality audits.
 
 ## Longer-term queue (not parallel work)
 

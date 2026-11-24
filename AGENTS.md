@@ -1,6 +1,6 @@
 # AGENTS.md — Predictive Emergence Theory (PET)
 
-Last updated: 2026-11-24T02:41:09Z. Applies repository-wide.
+Last updated: 2026-11-24T02:55:39Z. Applies repository-wide.
 
 ## Mission and constraints
 
@@ -35,4 +35,4 @@ Track per block: proof obligations closed/open, assumptions removed, theorem sco
 
 ## Current handoff
 
-PET-001–003: research/FOUNDATIONS.md; PET-004–008: individual research/PET-00X.md files. PET-008 frozen prospective CPU pilot negative: ridge 50% vs persistence 65% accuracy; raw early accuracy AUROC .599 > ridge .577. Preserve negative result; do not tune or rerun. Primary target PET-009: dynamical reachability of expressed functional competence, drift-aware predictive margin certificates or rigorous obstruction beyond NTK/standard theory. Read latest RESEARCH_LOG.md and research/ROADMAP.md. No general AI prediction theorem or verified originality established; no publication without audit and approval.
+PET-001–003: research/FOUNDATIONS.md; PET-004–009: individual research/PET-00X.md. PET-008 negative frozen pilot, no tuning. PET-009 exact nonlinear rank-one clock, arbitrary-order full-output/NTK observation obstruction and conditional finite-jet/moment prediction. Primary target PET-010: stable predictive compression from finite/noisy observations, include acquisition cost and compare strongest coarse-graining/NTK/Prony baselines. Read latest RESEARCH_LOG.md and research/ROADMAP.md. No redundant toy refinements or sweeps. No general AI forecast or verified originality established; no publication without audit and approval.

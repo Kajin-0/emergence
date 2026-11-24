@@ -72,3 +72,16 @@ Search-level comparison, not a proof of originality. Next PET-008: strongest mec
 - https://arxiv.org/abs/2611.19477 — learning rule influences circuit size; related optimizer dependence.
 
 Pilot restricted comparator is task-symmetry averaging, not exact Nanda frequency filtering. PET-009 audit NTK, linearized training, drift bounds and functional margin forecasts before novelty claims.
+
+## PET-009 literature — 2026-11-24T02:55:39Z
+
+- Jacot, Gabriel, Hongler (2018), Neural Tangent Kernel: Convergence and Generalization in Neural Networks, https://arxiv.org/abs/1806.07572.
+- Huang & Yau (2020), Dynamics of Deep Neural Networks and Neural Tangent Hierarchy, https://proceedings.mlr.press/v119/huang20l.html — finite-width derivative hierarchy.
+- Guillen, Misof, Gerken (2026), Finite-Width Neural Tangent Kernels from Feynman Diagrams, https://proceedings.mlr.press/v306/guillen26a.html.
+- Wang et al. (2026 preprint), Dynamical coarse-graining of neural-network training, https://arxiv.org/abs/2610.36180 — closest general closure/coarse-graining program, theorem-level comparison mandatory.
+- On the learning dynamics of two-layer quadratic neural networks for understanding deep learning, https://doi.org/10.1007/s11704-020-0298-0 — coupled quadratic network training ODEs.
+- Learning quadratic neural networks in high dimensions: SGD dynamics and scaling laws, https://papers.nips.cc/paper_files/paper/2025/hash/d7ce06e9293c3d8e6cb3f80b4157f875-Abstract-Conference.html.
+- Prony's method on the sphere, https://doi.org/10.5802/smai-jcm.53 — classical finite moment reconstruction and Vandermonde structure.
+- Batenkov & Yomdin, On the Accuracy of Solving Confluent Prony Systems, https://doi.org/10.1137/110836584 — precision/conditioning baseline.
+
+Search-level comparison only. No established originality. PET-010 must review noisy finite moment recovery, accessible observations and dynamical approximation costs before any novelty assertion.
