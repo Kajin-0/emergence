@@ -1,0 +1,11 @@
+PET-003C | Reproduced 2026-11-23 ET / 2026-11-24 UTC
+Method: Python standard library decimal, 70-digit precision, 220 bisection steps; Euclidean norm threshold 0.1; exact analytical solution. No random seed. Equivalent inline Python executed in the research session, transcribed into experiments/resonant_cascade.py.
+Command for replay: python3 experiments/resonant_cascade.py
+Columns: L, exact threshold time (12 decimals), absolute error after three-term asymptotic prediction (12 decimals)
+
+20 17.152961073862 0.082355712771
+100 96.144890755489 0.017467422854
+1000 994.622830624750 0.004470824931
+10000 9993.091024142011 0.001220579007
+
+Matches earlier PET-003 conversational table to reported precision. No fitted coefficients. This verifies a worked example, not the general theorem. No claim that PET-002 historical sweep was reproduced.
