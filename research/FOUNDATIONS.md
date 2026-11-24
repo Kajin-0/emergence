@@ -137,3 +137,7 @@ See [PET-008.md](PET-008.md): prospectively frozen structured modular-addition h
 ## PET-009 update
 
 See [PET-009.md](PET-009.md): exact scalar clock for balanced rank-one quadratic neural training, arbitrary-order full-output/NTK jet obstruction, bounded-support finite-jet recovery, width-independent conditional moment forecast. Exact and direct gradient-flow checks retained. Restricted model and no measured speedup or originality; next PET-010 finite/noisy observations and robust cost.
+
+## PET-010 update
+
+See [PET-010.md](PET-010.md): linear-width bounded-noise functional obstruction with shared training dynamics, explicit near-pole limit (growing target scale), classical minimax optimal recovery. Exact Fraction and numerical LP checks retained. Pivot to full-state multi-example learning; no further rank-one refinements without dependency.

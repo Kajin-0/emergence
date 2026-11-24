@@ -1,16 +1,16 @@
 # Research roadmap and decision gates
 
-Last updated 2026-11-24T02:55:39Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
+Last updated 2026-11-24T03:03:00Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
 
-## Active primary target PET-010 — Robust predictive compression under noisy observations
+## Active primary target PET-011 — Full-state predictive compression for multi-example feature learning
 
-PET-009: exact nonlinear rank-one training clock, arbitrary-order output/NTK jet obstruction, finite support Prony reconstruction and uniform moment forecast. Restricted architecture, exact derivatives and known bounds; no measured savings. Do not tune PET-008 or extend synthetic examples for their own sake.
+PET-010 resolved a restricted bounded-noise obstruction and classical optimal-recovery formulation. Park rank-one and partial-observation examples. The central goal is prediction from actual microscopic learning state, not only loss or noisy telemetry.
 
-1. Audit recent dynamical coarse-graining (arXiv:2610.36180), neural tangent hierarchy, noisy Prony/moment theory, analytic continuation and system-identification limits at theorem level. Establish actual difference before claiming novelty.
-2. Replace exact high derivatives by accessible finite-time observations and finite precision. Derive a stability bound or lower bound for future held-out functional margins under explicit noise and observation assumptions. Include full observation/derivative acquisition, computation and precision cost. Seek a tradeoff not subsumed by classical theory.
-3. Prefer a structural extension beyond imposed rank-one/balanced dynamics, or a certified abstraction with measurable advantage over full training and standard tangent forecast. Do not confuse a conditional error bound with an efficient construction.
-4. Freeze a discriminating test only if a novel hypothesis survives. No broad sweeps, no retrospective tuning of PET-008, no paid compute.
-5. Apply AGENTS stopping rules; if two consecutive focused blocks produce no substantive gain, park/pivot. Publication NO-GO until independent proof and originality audits.
+1. Audit dynamical coarse-graining, exact feature-learning reductions, finite-width tangent hierarchy, invariant closures and representation/grokking dynamics at theorem level.
+2. Define a multi-example learning system, early full-state access, task grammar, functional error and prediction horizon. Seek a structural closure/obstruction that matters even with complete early weights and known data/optimizer. Do not artificially hide information from predictor to obtain a barrier.
+3. A useful theorem must certify future held-out functions or a class of relations, account for construction, precision, and inference costs against full training and strongest reduced baselines, and specify actual assumptions and novelty difference. No generic Gronwall/NTK/optimal-recovery rebranding.
+4. If a discriminating hypothesis survives, freeze a minimal experiment; no paid compute, broad sweeps, or retrospective PET-008 tuning.
+5. Follow AGENTS stop/pivot rules. No publication until substantive independent audit. If no meaningful structural gain survives prior art, explicitly park route.
 
 ## Longer-term queue (not parallel work)
 

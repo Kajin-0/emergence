@@ -85,3 +85,12 @@ Pilot restricted comparator is task-symmetry averaging, not exact Nanda frequenc
 - Batenkov & Yomdin, On the Accuracy of Solving Confluent Prony Systems, https://doi.org/10.1137/110836584 — precision/conditioning baseline.
 
 Search-level comparison only. No established originality. PET-010 must review noisy finite moment recovery, accessible observations and dynamical approximation costs before any novelty assertion.
+
+## PET-010 literature — 2026-11-24T03:03:00Z
+
+- Demanet & Townsend, Stable extrapolation of analytic functions, https://arxiv.org/abs/1605.09601 — noisy samples and fractional-power extrapolation stability.
+- Trefethen, Quantifying the ill-conditioning of analytic continuation, https://doi.org/10.1007/s10543-020-00802-7 — quantitative continuation instability.
+- Foucart, Instances of computational optimal recovery: Refined approximability models, https://doi.org/10.1016/j.jco.2020.101503 — optimal linear recovery with bounded noise and dual norm penalties. PET-010B is a special finite-dimensional application, not a new minimax theorem.
+- Numerical analytic continuation, https://doi.org/10.1007/s13160-023-00599-2 — analytic continuation limitations and algorithms.
+
+Search-level comparison, no verified originality. Next audit full-state multi-example dynamical coarse-graining and feature learning at theorem level.

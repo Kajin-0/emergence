@@ -2,16 +2,16 @@
 
 Living authoritative record. UTC timestamps for new entries; historical sessions dated to available local date only. Append new records, never silently replace past claims; corrections link to superseded entries. Refresh the checkpoint after every substantive research block. For proof details read research/FOUNDATIONS.md.
 
-## Current checkpoint — 2026-11-24T02:55:39Z
+## Current checkpoint — 2026-11-24T03:03:00Z
 
-- **Active target:** PET-010, robust predictive compression under noisy/finite observations.
-- **Next action:** compare PET-009 finite-jet/moment prediction with recent dynamical coarse-graining and tangent hierarchy theory; seek a stable accessible-observation forecast or sharp tradeoff/lower bound with end-to-end costs, beyond exact derivatives and imposed rank-one balance. Do not tune or repeat PET-008.
-- **Baseline:** PET-001–008 archived; PET-009 exact nonlinear clock, arbitrary-order full-output/NTK jet obstruction, bounded-support reconstruction and uniform finite-moment forecast under explicit conditions (research/PET-009.md).
-- **Verified experiments:** 4 cascade roots, 341 Clifford schedules, 3 CPU neural training runs, PET-009 exact moment checks q=0..4 and one direct gradient-flow/Prony check. Historical 240-network sweep unverified.
-- **Publication status:** NO-GO. Independent proof and theorem-level novelty audits open.
+- **Active target:** PET-011, full-microscopic-state predictive compression for multi-example feature learning.
+- **Next action:** audit general dynamical coarse-graining, exact feature-learning reductions and tangent hierarchy; identify structural closure or meaningful obstruction with full early state and training law available. Require actual held-out functional prediction, cost including construction, strongest baselines. No more rank-one observation counterexamples absent a specific dependency.
+- **Baseline:** PET-001–009 archived; PET-010 noise-hidden functional relation with linear-width construction and exact minimax recovery LP (classical machinery), research/PET-010.md.
+- **Verified experiments:** previous checks plus 18 exact Fraction evaluations and 4 primal/dual LP numerical consistency checks. Historical 240-network sweep unverified.
+- **Publication status:** NO-GO; independent proof and theorem-level novelty audit outstanding.
 - **Constraints:** $0 additional spend; one primary target; theory first; avoid churn.
-- **Decision:** CONTINUE from exact to stable prediction; no generic synthetic sweeps. Park rank-one refinements unless a specific stability dependency.
-- **Unresolved:** finite-precision observation cost, general nonlinear training, comparative savings, actual semantic capability discovery, originality.
+- **Decision:** PIVOT away from restricted observation/rank-one refinements toward full-state structural compression, directly relevant to predicting intelligence.
+- **Unresolved:** meaningful full-state computational savings, multi-example learned representations, semantic capability discovery, originality.
 
 ## Historical archive — 2026-11-23 ET
 
@@ -65,3 +65,7 @@ Parent f49b614ec8f7da095cc560299a07515444e9d1a1 is the frozen protocol commit be
 ## 2026-11-24T02:55:39Z — PET-009: nonlinear reachability and information certificate
 
 Parent bbd7e3b712c0060a209ea355f0fbaa19dc5d8088. Balanced quadratic activation rank-one gradient flow admits exact scalar clock. Derived arbitrary-order full-output and NTK initial temporal jet indistinguishability with identical full training trajectories but opposite future held-out relations (binomial finite differences). Derived conditional exact finite-jet reconstruction via known bounded support/Prony and width-independent approximate moment forecast with explicit residual, clock and functional error bounds; exact jets and model restrictions essential. Exact rational moments verified q=0..4; q=0 direct gradient flow relation error 7.85e-12 and five nodes recovered from ten moments. D=2 (observation obstruction and constructive conditional forecast including exact reconstruction); R=0; primary obligations internally closed=2; A=0; C=1 family; V=1 grouped verification; spend=$0. No comparative runtime, no generalization or novelty claim. Closest research: NTK, neural tangent hierarchy, quadratic dynamics, recent dynamical coarse-graining (arXiv:2610.36180), Prony. Decision CONTINUE to PET-010 finite precision and observation cost; park further rank-one toy refinements absent a precise dependency. Publication NO-GO.
+
+## 2026-11-24T03:03:00Z — PET-010: bounded-noise prediction limits and minimax recovery
+
+Parent 46195fa1c934fb855bc4d72fc840f6319dcedaa3. Derived four-neuron-per-node realization of bounded signed resolvent measures with common exact training dynamics. Forward-difference cancellation hides the entire early unit-input output history under bounded noise; near-pole family has O(1) absolute future gap at exponentially shrinking pole distance, with growing target scale. Finite-checkpoint minimax risk is a classical optimal-recovery LP, applied exactly to the fixed-node box family; no novelty credit for that machinery. Verified 18 exact rational evaluations (6 degrees x 3 clocks) and 4 LP primal/dual numerical checks; no training sweep or runtime advantage. D=1 (linear-width bounded-noise realizable obstruction, including explicit near-pole limit); R=0; primary obstruction closed in restricted model; A=0; C=1 family; V=1 grouped computational check; spend=$0. Classical noisy extrapolation/optimal recovery overlap verified by source search; no general AI result. Decision PIVOT to full-state multi-example feature-learning compression; further rank-one extrapolation would be churn. Publication NO-GO.

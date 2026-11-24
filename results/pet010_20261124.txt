@@ -1,0 +1,14 @@
+PET-010 | 2026-11-24T03:03:00Z
+Local execution: python3 check.py (archived as experiments/pet010.py)
+Python 3.13.5; NumPy 2.3.5; SciPy 1.17.0; deterministic.
+n= 2 early=0.00343406593407 future=1.60714285714 amplification=468 nearpole=0.333333333333
+n= 4 early=7.35224920008e-06 future=0.232954760642 amplification=31684.8292683 nearpole=0.534065934066
+n= 6 early=1.45224120086e-08 future=0.0322304995252 amplification=2219362.69995 nearpole=0.768340410903
+n= 8 early=2.75503025749e-11 future=0.00434027777778 amplification=157540112.889 nearpole=0.909381900321
+n=12 early=9.29219947058e-17 future=7.5014099092e-05 amplification=807280335829 nearpole=0.990204700318
+n=16 early=2.98623243943e-22 future=1.24747453349e-06 amplification=4.1774194032e+15 nearpole=0.999123465178
+m=1 lower=0.487727679501 upper=0.487727679501 gap=0 noise_gain=1.77778
+m=3 lower=0.0750415103601 upper=0.0750415103602 gap=9.26e-14 noise_gain=1012.04
+m=5 lower=0.0750415103599 upper=0.0750415103602 gap=2.32e-13 noise_gain=1012.04
+m=9 lower=0.0745438240152 upper=0.0745438240153 gap=1.23e-13 noise_gain=1032.17
+All assertions passed. LP results floating-point consistency checks, not certified intervals.

@@ -23,6 +23,9 @@ This is an exploratory research program, not an established general theory of in
 - [research/PET-009.md](research/PET-009.md): exact nonlinear reachability, jet obstruction and moment prediction.
 - [experiments/pet009.py](experiments/pet009.py): exact checks and direct gradient-flow verification.
 - [results/pet009_20261124.txt](results/pet009_20261124.txt): verification record.
+- [research/PET-010.md](research/PET-010.md): bounded-noise obstruction and optimal recovery.
+- [experiments/pet010.py](experiments/pet010.py): exact Fraction and numerical LP checks.
+- [results/pet010_20261124.txt](results/pet010_20261124.txt): verification record.
 - [research/ROADMAP.md](research/ROADMAP.md): current research target, metrics, decision gates and long-term program.
 - [research/REFERENCES.md](research/REFERENCES.md): literature baseline and novelty obligations.
 - [experiments/resonant_cascade.py](experiments/resonant_cascade.py): dependency-free reproduction of the PET-003 example.
@@ -34,6 +37,6 @@ Run from repository root:
 
 ## Current frontier
 
-PET-010: robust predictive compression from finite and noisy observations. PET-009 derived a restricted nonlinear forecast, arbitrary-order observation obstruction and finite-moment certificate. Next establish stability and acquisition costs beyond exact derivatives, compare strongest known theory. No verified originality or general AI prediction result.
+PET-011: full-state predictive compression for multi-example feature learning. PET-010 gave a bounded-noise functional obstruction and classical minimax recovery. Park partial-observation/rank-one refinements; pursue structural prediction from actual microscopic state. No verified originality or general AI prediction result.
 
 Constraints: $0 new spending; theory first; high significance threshold; no publication or priority claims without independent scrutiny and owner approval. Public repository is a working record.
