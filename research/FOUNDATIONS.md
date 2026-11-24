@@ -129,3 +129,7 @@ See [PET-006.md](PET-006.md): genuine input-output composition hardness at one l
 ## PET-007 update
 
 See [PET-007.md](PET-007.md): loss-only all-curriculum indistinguishability and sharp ordered functional-readout depth for strongly convex Clifford quadratics. Exact 341-schedule implementation check reproduced. Full microscopic laws distinguish the models; no actual neural capability result. Next PET-008 tests learned functional representations.
+
+## PET-008 update
+
+See [PET-008.md](PET-008.md): prospectively frozen structured modular-addition holdout pilot, negative predictive advantage. Decodable competence is not a reliable sufficient forecast in this pilot. Script and full family-level count records retained. Pivot to dynamical reachability; no retrospective tuning.

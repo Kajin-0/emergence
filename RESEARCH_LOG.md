@@ -2,16 +2,16 @@
 
 Living authoritative record. UTC timestamps for new entries; historical sessions dated to available local date only. Append new records, never silently replace past claims; corrections link to superseded entries. Refresh the checkpoint after every substantive research block. For proof details read research/FOUNDATIONS.md.
 
-## Current checkpoint — 2026-11-24T02:30:08Z
+## Current checkpoint — 2026-11-24T02:41:09Z
 
-- **Active target:** PET-008, prospective discovery of actual learned functional relations from early internal representations.
-- **Next action:** select one small algebraic learner with no imposed internal factorization, specify relation grammar and held-out classes, pre-register early-checkpoint and future evaluation rules; compare loss, early outputs, standard Fourier/representation diagnostics and extrapolation. Seek an analytical certificate or meaningful discriminating test, not another constructed ambiguity example.
-- **Baseline:** PET-001–006 foundations and individual files; PET-007 all-curriculum loss blindness and sharp stage-depth readout obstruction (research/PET-007.md).
-- **Verified experiments:** 4 prior cascade roots plus exact integer/Fraction test of 341 schedules (16-dimensional Clifford example), results versioned. Historical 240-network sweep unverified.
-- **Publication status:** NO-GO. Independent proof and theorem-level novelty audits open.
+- **Active target:** PET-009, dynamical reachability certificates for functional competence.
+- **Next action:** formalize how early hidden decodability differs from future expressed behavior, compare exact readout dynamics, NTK and representation-drift bounds, seek a predictive margin certificate or nontrivial obstruction beyond existing methods. Park PET-008 design; no retrospective tuning.
+- **Baseline:** PET-001–007 archived; PET-008 prospectively frozen structured modular-addition pilot: ridge 50% vs persistence 65% accuracy; ridge AUROC .577 vs raw .599; 20 eligible/7 acquired. See research/PET-008.md.
+- **Verified experiments:** 4 cascade roots, 341 Clifford schedules, 3 CPU neural training runs (7500 updates), complete per-family count record. Historical 240-network sweep unverified.
+- **Publication status:** NO-GO. Independent proof and novelty audits open.
 - **Constraints:** $0 additional spend; one primary target; theory first; avoid churn.
-- **Decision:** PIVOT to actual learned representations; park generic realization and synthetic Clifford refinements unless specific dependency.
-- **Unresolved:** full microscopic prediction, semantic capability discovery, grammar inference, robust computational advantage, originality.
+- **Decision:** PIVOT from decodability to optimizer-dependent functional reachability. Negative result retained without rerun.
+- **Unresolved:** predictive advantage, semantic grammar discovery, representation drift, total construction cost, originality.
 
 ## Historical archive — 2026-11-23 ET
 
@@ -57,3 +57,7 @@ Parent d34dfd881051854965fe32d4252d856ce792abbd. Replaced arbitrary Boolean capa
 ## 2026-11-24T02:30:08Z — PET-007: loss-blind noncommutative learning
 
 Parent 8e4e6deafda2e19ccedcfe6a0174968c06cb73e0. Derived two condition-number-3 quadratic learning systems with identical primitive loss and norm trajectories under all common mixed-objective curricula (also discrete GD), yet different fixed functional readouts. Clifford paravector sandwich identity proves loss blindness at arbitrary stage depth; scalar readout equal for <m stages, determinant difference at m independent directions. Finite exact verification N=16: 341 primitive schedules, no loss mismatches, first readout differences at depth four (24 permutations), ordered readout 2/81 versus zero. D=2 (all-curriculum loss-only obstruction and exact stage-depth diagnostic); R=0; O_closed=2 internally; A=0; C=1 family; V=1 exact experiment with 341 cases; spend=$0. Closest known overlap: bilinear input-class identifiability, weighted automata, Clifford algebra. Novelty unverified; full microscopic laws distinguish pair, no actual neural semantic result. PIVOT to PET-008: prospective relation prediction in a small learned representation, pre-registered discrimination vs established baselines. Publication NO-GO.
+
+## 2026-11-24T02:41:09Z — PET-008: frozen prospective pilot, negative result
+
+Parent f49b614ec8f7da095cc560299a07515444e9d1a1 is the frozen protocol commit before training. Three CPU seeds, structured held-out difference families, cutoff 600 and horizon 2500. 20 eligible, 7 acquired; hidden ridge 5 TP/8 FP/2 FN/5 TN (50% accuracy, .577 AUROC), persistence 65%, raw early accuracy .599 AUROC, extrapolation and restricted logits 35%. Restricted logits perfect at cutoff across all families but 13/20 fail later; five initially passing families regress. Frozen hypothesis fails predictive advantage; no tuning or sweep. D=1 (discriminating negative experiment); R=0; O_closed=1 empirical test; A=0; C=0 formal counterexamples; V=1 experiment/3 seeds; 7500 CPU updates, 7.52s measured local elapsed, $0 spend. No independent replication, no matched predictor compute or novel generalization claim. PIVOT to PET-009 dynamical reachability, distinguish representation availability from optimizer selection. Publication NO-GO. See protocol, report, script and full family-count data.

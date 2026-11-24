@@ -1,0 +1,325 @@
+{
+  "timestamp_utc": "2026-11-24T02:41:09Z",
+  "protocol_commit": "f49b614ec8f7da095cc560299a07515444e9d1a1",
+  "environment": {
+    "torch": "2.10.0+cpu",
+    "numpy": "2.3.5",
+    "python": "3.13.5",
+    "threads": 2
+  },
+  "elapsed_seconds": 7.520278002000396,
+  "denominator": 31,
+  "threshold_correct": 28,
+  "description": "Lossless integer correct-count representation of all family accuracy arrays from the local run (floating-point representations can be reconstructed to float32). Extrapolation and eligibility derive from counts and frozen protocol. Train accuracy 1.0 at all recorded checkpoints. No model checkpoints retained. Replay emits full JSONL.",
+  "seeds": [
+    {
+      "seed": 0,
+      "families": [
+        1,
+        5,
+        7,
+        9,
+        14,
+        15,
+        17,
+        22,
+        24,
+        27,
+        28
+      ],
+      "previous": [
+        3,
+        8,
+        11,
+        4,
+        11,
+        12,
+        8,
+        10,
+        11,
+        4,
+        10
+      ],
+      "cutoff": [
+        24,
+        24,
+        24,
+        28,
+        29,
+        28,
+        25,
+        28,
+        26,
+        28,
+        28
+      ],
+      "ridge": [
+        31,
+        29,
+        30,
+        28,
+        31,
+        31,
+        28,
+        30,
+        30,
+        31,
+        31
+      ],
+      "restricted": [
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31
+      ],
+      "horizon": [
+        26,
+        27,
+        31,
+        27,
+        31,
+        31,
+        26,
+        26,
+        30,
+        27,
+        30
+      ],
+      "train_losses": [
+        0.04227853938937187,
+        0.02090546302497387,
+        0.005235827527940273
+      ],
+      "sum_energy": 0.18156608939170837
+    },
+    {
+      "seed": 1,
+      "families": [
+        0,
+        5,
+        6,
+        8,
+        9,
+        13,
+        14,
+        18,
+        19,
+        22,
+        27
+      ],
+      "previous": [
+        1,
+        1,
+        11,
+        6,
+        2,
+        4,
+        3,
+        1,
+        10,
+        2,
+        0
+      ],
+      "cutoff": [
+        8,
+        22,
+        29,
+        28,
+        14,
+        25,
+        23,
+        19,
+        27,
+        17,
+        13
+      ],
+      "ridge": [
+        26,
+        28,
+        30,
+        31,
+        29,
+        27,
+        28,
+        25,
+        27,
+        27,
+        25
+      ],
+      "restricted": [
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31
+      ],
+      "horizon": [
+        18,
+        25,
+        25,
+        28,
+        15,
+        17,
+        29,
+        18,
+        29,
+        28,
+        17
+      ],
+      "train_losses": [
+        0.04573587700724602,
+        0.022573478519916534,
+        0.005242092069238424
+      ],
+      "sum_energy": 0.18349787592887878
+    },
+    {
+      "seed": 2,
+      "families": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        8,
+        9,
+        17,
+        19,
+        21,
+        28
+      ],
+      "previous": [
+        14,
+        4,
+        5,
+        7,
+        5,
+        6,
+        15,
+        11,
+        9,
+        11,
+        9
+      ],
+      "cutoff": [
+        27,
+        24,
+        25,
+        24,
+        26,
+        30,
+        29,
+        29,
+        30,
+        28,
+        25
+      ],
+      "ridge": [
+        27,
+        31,
+        31,
+        29,
+        29,
+        30,
+        30,
+        30,
+        30,
+        31,
+        30
+      ],
+      "restricted": [
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31
+      ],
+      "horizon": [
+        26,
+        22,
+        22,
+        28,
+        18,
+        28,
+        28,
+        29,
+        30,
+        26,
+        30
+      ],
+      "train_losses": [
+        0.04252122342586517,
+        0.021240349858999252,
+        0.005173572804778814
+      ],
+      "sum_energy": 0.18934427201747894
+    }
+  ],
+  "pooled": {
+    "eligible": 20,
+    "positives": 7,
+    "metrics": {
+      "ridge": {
+        "tp": 5,
+        "fp": 8,
+        "fn": 2,
+        "tn": 5,
+        "accuracy": 0.5,
+        "precision": 0.38461538461538464,
+        "recall": 0.7142857142857143,
+        "auc": 0.5769230769230769
+      },
+      "persistence": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 7,
+        "tn": 13,
+        "accuracy": 0.65,
+        "precision": null,
+        "recall": 0,
+        "auc": 0.5989010989010989
+      },
+      "extrapolation": {
+        "tp": 7,
+        "fp": 13,
+        "fn": 0,
+        "tn": 0,
+        "accuracy": 0.35,
+        "precision": 0.35,
+        "recall": 1,
+        "auc": 0.5
+      },
+      "restricted": {
+        "tp": 7,
+        "fp": 13,
+        "fn": 0,
+        "tn": 0,
+        "accuracy": 0.35,
+        "precision": 0.35,
+        "recall": 1,
+        "auc": 0.5
+      }
+    }
+  },
+  "local_source_sha256": "aee284bbd40497824886c2df02cd8f39a984494f2e0bde0414327b9f5893b11a",
+  "local_stdout_sha256": "6626238ade5616d07a5fc870a8aa824352bc60d8afeba37cde21b225bbd13b0c"
+}

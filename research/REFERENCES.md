@@ -63,3 +63,12 @@ Search-level comparison only; closest theorem audit open. No originality establi
 - Standard Clifford algebra volume and paravector identities; reference lecture notes https://web.math.ku.dk/~jakobsen/gramps/Clif.pdf.
 
 Search-level comparison, not a proof of originality. Next PET-008: strongest mechanistic representation/grokking baselines, pre-registered prospective functional relation prediction.
+
+## PET-008 literature — 2026-11-24T02:41:09Z
+
+- Nanda et al., Progress Measures for Grokking via Mechanistic Interpretability, https://arxiv.org/abs/2301.05217 — established restricted/excluded logit progress measures, Fourier circuit formation precedes generalization.
+- https://arxiv.org/abs/2606.12966 — Fourier synchronization precursor; revisions include controlled comparisons with memorization and task basis. Check current title/authors before citing specific results. Early lead alone does not establish a new predictor.
+- https://arxiv.org/abs/2607.04333 — representational priors and grokking delay, related causal interventions.
+- https://arxiv.org/abs/2611.19477 — learning rule influences circuit size; related optimizer dependence.
+
+Pilot restricted comparator is task-symmetry averaging, not exact Nanda frequency filtering. PET-009 audit NTK, linearized training, drift bounds and functional margin forecasts before novelty claims.

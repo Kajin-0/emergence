@@ -1,16 +1,16 @@
 # Research roadmap and decision gates
 
-Last updated 2026-11-24T02:30:08Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
+Last updated 2026-11-24T02:41:09Z. Primary goal: a substantial theorem about prospective emergence discovery or its fundamental limits, not an inventory of known techniques.
 
-## Active primary target PET-008 — Prospective discovery of learned functional relations
+## Active primary target PET-009 — Dynamical reachability of functional competence
 
-PET-007 found a loss-only information obstruction even with arbitrary curricula, plus a sharp ordered-readout diagnostic in a constructed Clifford family. This is not yet inference from full microscopic learning dynamics. Park generic realization and constructed-obstruction refinements unless a specific dependency arises.
+PET-008 negative pilot: early hidden readout does not outperform direct output ranking or persistence, despite evidence of latent competence. Do not tune or repeat this pilot. See research/PET-008.md and frozen protocol.
 
-1. Choose ONE small algebraic learner whose internal representation is not imposed (e.g. an ordinary trainable modular arithmetic network with held-out structured input families). Define observable functional relations, finite admissible relation grammar, novelty relative to training constraints, target performance, and prediction horizon. Distinguish untrained task families from mere held-out random examples and prevent access to future labels/checkpoints during prediction.
-2. Audit Nanda et al. mechanistic grokking progress measures, Fourier/circuit analyses, algebra grokking, learned group actions, structural identifiability and compositional generalization. Seek a precise improvement over known representation diagnostics, not another renaming of them.
-3. Formulate an early internal representation certificate predicting which relations become functional at a future checkpoint, or a rigorous barrier. Measure false positives, recall, coverage, lead time, matched compute, and calibration; compare loss-only, early direct output, standard spectral/representation diagnostics, and simple trajectory extrapolation. Freeze prediction rules and held-out evaluations before running a discriminating experiment.
-4. No broad sweeps, paid compute, or frontier training. Start with analytical argument; only run the minimal experiment that tests the hypothesis. If a known baseline subsumes the claim, record and pivot. Follow AGENTS.md stopping rules.
-5. Seek a substantial structural result (general theorem or genuinely strong predictive separation), not a publication based on a toy benchmark. Keep semantic claims bounded by operational task grammar.
+1. Define functional acquisition as future expressed margins, not existence of an alternative decoder; distinguish finite-horizon endpoint from first passage/persistence.
+2. Audit frozen-feature readout gradient dynamics, neural tangent kernel and feature-learning/representation drift bounds, existing mechanistic precursor and learning-curve prediction results. Establish exact theorem-level gap before new experiments.
+3. Seek a certificate of future margins from early parameters and learning law, with controlled drift/optimizer error and cost including construction. Compare against exact frozen-kernel dynamics and direct output baselines. A generic Gronwall bound or rebranding NTK does not qualify as significant.
+4. Seek a nontrivial structural gain or impossibility theorem for actual functional discovery. If a specific prediction survives, freeze one discriminating test. No retrospective tuning of PET-008, no broad sweeps or paid compute.
+5. Follow anti-churn conditions in AGENTS.md; after two zero-delta blocks park/pivot. Publication only if substantial new result survives independent audit.
 
 ## Longer-term queue (not parallel work)
 

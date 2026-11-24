@@ -1,6 +1,6 @@
 # AGENTS.md — Predictive Emergence Theory (PET)
 
-Last updated: 2026-11-24T02:30:08Z. Applies repository-wide.
+Last updated: 2026-11-24T02:41:09Z. Applies repository-wide.
 
 ## Mission and constraints
 
@@ -35,4 +35,4 @@ Track per block: proof obligations closed/open, assumptions removed, theorem sco
 
 ## Current handoff
 
-PET-001–003: research/FOUNDATIONS.md; PET-004–007: individual research/PET-00X.md files. PET-007 proves loss-only indistinguishability under all curricula in a Clifford quadratic family and a sharp stage-depth diagnostic; exact 341-schedule check reproduced. Primary target PET-008: actual learned functional relation discovery from early internal representation, compare strong existing diagnostics, pre-register one discriminating test. Read latest RESEARCH_LOG.md and research/ROADMAP.md. Do not repeat local saddle refinements, supplied-grammar tensor examples, generic realization theory or synthetic Clifford cases without a specific dependency. Independent proof/novelty audit open. No general AI prediction theorem or verified originality established.
+PET-001–003: research/FOUNDATIONS.md; PET-004–008: individual research/PET-00X.md files. PET-008 frozen prospective CPU pilot negative: ridge 50% vs persistence 65% accuracy; raw early accuracy AUROC .599 > ridge .577. Preserve negative result; do not tune or rerun. Primary target PET-009: dynamical reachability of expressed functional competence, drift-aware predictive margin certificates or rigorous obstruction beyond NTK/standard theory. Read latest RESEARCH_LOG.md and research/ROADMAP.md. No general AI prediction theorem or verified originality established; no publication without audit and approval.
